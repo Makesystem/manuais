@@ -1,5 +1,5 @@
 
-![](logotipomakesystem.png)
+![](https://raw.githubusercontent.com/Makesystem/manuais/main/logotipomakesystem.png)
 <br>
 
 <h1 style="text-align: center;padding:0 0 30px 0;background-color:#F4FFFF">IMPORTAÇÃO DE MAILING</h1>
