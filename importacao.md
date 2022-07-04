@@ -84,6 +84,8 @@ _O arquivo fica nesta parte `IMPORTAÇÕES EM ANDAMENTO` até a finalização da
  _Caso haja registros inválidos, o sistema irá montar um novo arquivo contendo com esses registros inválidos e no final de cada registro terá o motivo ao qual impediu que ele fosse importado._
 _O arquivo terá o mesmo nome que você importou acrescentado a terminação INVÁLIDOS no final. ele aparecerá na área de arquivos_ `ARQUIVOS CARREGADOS` _porém, com a palavra_ `INVÁLIDOS` _do lado, podendo fazer o download do arquivo clicando na_ :arrow_down: _para possíveis correções, editar dentro do sistema mesmo, clicando na_ :pencil2:, _ou excluir os registros inválidos clicando na_ ![](lixeira.png).
 
+![](invalido.gif)
+
 <br />
 
 >## **2.7 - Notificações do fim do Processo de importação** 
