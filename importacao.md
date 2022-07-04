@@ -2,83 +2,103 @@
 ![](https://raw.githubusercontent.com/Makesystem/manuais/main/logotipomakesystem.png)
 <br>
 
-<h1 style="text-align: center;padding:0 0 30px 0;background-color:#F4FFFF">IMPORTAÇÃO DE MAILING</h1>
-
-<div class="" style="display:flex;justify-content: center">
-    <a href="#"><img src="facebookescrito.png" style="height:52px;padding: 0 15px"></a>
-    <a href="#"><img src="whatsapp.png" style="height:52px;padding: 0 15px"></a>
-    <a href="#"><img src="linkedin.png" style="height:50px;padding: 0 15px"></a>
-    <a href="#"><img src="ytbee.png" style="height:42px;padding: 0 15px"></a>
-</div>
-
-# <p style="text-align:center">1 - Podemos importar os arquivos para o sistema de *`três`* maneiras</p>
-
-**<p style="text-align:center;font-size:25px">1.1 - Primeira forma de importação</p>** *<p style="text-align: center;">Clicando no centro da caixa verde, abrirá uma opção de pesquisa de arquivo,
-seleciona o mesmo e clica em *`Abrir`* para começar a importação.</p>*
-
-<img src="primeiraopçãodeimportação.gif" height="560" alt="" style="display:block;margin-left:auto;margin-right:auto">
+![drawing](logotipomakesystem.png)
 
 <br>
 
-**<p style="text-align: center;font-size:25px">1.2 - Segunda forma de importação</p>** *<p style="text-align:center">Clica no ícone no canto inferior direito onde abrirá uma opção de pesquisa de arquivo, seleciona o mesmo e clica em *`Abrir`* para começar a importação.</p>*
+# IMPORTAÇÃO DE MAILING
 
-<img src="segundaopçãodeimportação.gif" height="560" alt="" style="display:block;margin-left:auto;margin-right:auto">
+ ![](facebookescrito.png)
+ ![](whatsapp.png)
+ ![](linkedin.png)
+ ![](ytbee.png)
 
-<br>
+<br />
 
-**<p style="text-align: center;font-size:25px">1.3 - Terceira forma de importação</p>** *<p style="text-align: center">Arrasta o aquivo para o centro da caixa verde para começar a importação.</p>*
+# 1 - Podemos importar os arquivos para o sistema de *`três`* maneiras.
 
-<img src="terceiraopçãodeimportação.gif" height="560" alt="" style="display:block;margin-left:auto;margin-right:auto;">**<p style= "text-align:center;background-color:#F4FFFF">1.3.1 - <img src="waarning.png" style="height:30px;padding-right:5px;"> Muito importante, o formato do arquivo tem que ser em <a href="https://drive.google.com/file/d/1BHcN4QvCnNHDNB-jPDdUeCkT0hu0Ie7v/view?usp=sharing"><i>.csv</i></a></p>**
+>## **1.1 - Primeira forma de importação** 
+_Clicando no centro da caixa verde, abrirá uma opção de pesquisa de arquivo,
+seleciona o mesmo e clica em_ `Abrir` _para começar a importação._
 
-# <p style="text-align:center">2 - Trabalhando o arquivo </p>
+![](primeiraopçãodeimportação.gif)
 
-**<p style="text-align: center;font-size:25px;">2.1 - Clica no arquivo que foi importado</p>**
 
-<img src="arquivoteste.gif" style="display:block;margin:0px auto">
+>## **1.2 - Segunda forma de importação** 
+_Clica no ícone no canto inferior direito onde abrirá uma opção de pesquisa de arquivo, seleciona o mesmo e clica em_ `Abrir` _para começar a importação._
 
-<br>
+![](segundaopçãodeimportação.gif)
 
-**<p style="text-align: center;font-size:25px">2.2 - Nesta tela clica em `_SELECIONE UM FORNECEDOR_`, escolhe um. </p>**
+>## **1.3 - Terceira forma de importação**
+_Arrasta o aquivo para o centro da caixa verde para começar a importação._
 
-<img src="fornecedor.gif" style="display:block;margin:0px auto">
+![](terceiraopçãodeimportação.gif)
 
-<br>
+##### 1.3.1 - ![](waarning.png) Muito importante, o formato do arquivo tem que ser em [.csv](https://drive.google.com/file/d/1BHcN4QvCnNHDNB-jPDdUeCkT0hu0Ie7v/view?usp=sharing).
 
-**<p style= "text-align:center; font-size:25px">2.3 - Os campos obrigatórios da importação são:</p>**
+# 2 - Trabalhando o arquivo.
 
-<img src="camposob.png" style="display:block;margin:0px auto">
+>## **2.1 - Clica no arquivo que foi importado**
 
- **<p style="text-align:center;background-color:#F4FFFF">2.3.1 - <img src="waarning.png" style= ""> Os obrigatórios se desmarcados ficam em vermelho, o resto em cinza se desmarcado.</p>**
+![](arquivoteste.gif)
 
-**<p style="text-align:center;background-color:#F4FFFF">2.3.2 - Colocando os nomes corretamente as colunas serão preenchidas nos campos certos, deixaremos um 
-<a href="https://drive.google.com/file/d/14R_HsXNHtrN8R2Lk96DNvRI_71LZC0E1/view?usp=sharing">ARQUIVO PADRÃO</a> para efetuarem a higienização do `mailing`.</p>**
+>## **2.2 - Selecionando o fornecedor**
 
-<br>
+_Clique no botão escrito `SELECIONE UM FORNECEDOR`, para dar continuidade no processo._
 
-**<p style="text-align:center; font-size:25px"> 2.4 - Terminando a seleção, só `Iniciar importação`</p>**
+![](fornecedor.gif)
 
-<img src="configimprtacao.gif" height="560"  alt="" style="display:block;margin-left:auto;margin-right:auto">
+##### 2.2.1 - ![](waarning.png) Para seguir o processo de importação é necessário selecionar um fornecedor.
 
-<br>
+<br />
 
-**<p style="text-align:center; font-size:25px"> 2.5 - Finalizando importação</p>** *<p style="text-align:center">O arquivo fica nesta parte `IMPORTAÇÕES EM ANDAMENTO` até a finalização da importação.</p>*
+>## **2.3 - Os campos obrigatórios da importação são:**
 
-<img src="aguardando.gif" height="560"  alt="" style="display:block;margin-left:auto;margin-right:auto"> **<p style="text-align:center;background-color:#F4FFFF;">2.5.1 - <img src="waarning.png" style= "height:30px;padding-rigth:5px"> Tem a opção de carregar vários arquivos, mas o processo de importação é somente um por vez.</p>**
+![](camposob.png)
 
-<br>
+##### 2.3.1 - ![](waarning.png) Os obrigatórios se desmarcados ficam em vermelho, o resto em cinza se desmarcado.
 
-**<p style="text-align:center; font-size:25px"> 2.6 - Arquivo inválidos</p>** <em><p style="text-align:center;">O arquivo que não passar nas validações, será colocando na área de `ARQUIVOS CARREGADOS`, porém com a palavra </em><span style="color:white;background-color:red;border-radius:20px">INVÁLIDOS</span><em> do lado, podendo fazer o download do arquivo clicando na</em> :arrow_down: <em>para possíveis correções, editar dentro do sistema clicando na</em> :pencil2:,<em> ou excluir na <img src="lixeira.png" style="padding-top:10px">.</p></em>
-<img src="invalido.gif" height="560" style="display:block;margin-left:auto;margin-right:auto">
+##### 2.3.2 - Colocando os nomes corretamente as colunas serão preenchidas nos campos certos, deixaremos um [`ARQUIVO PADRÃO`](https://drive.google.com/file/d/14R_HsXNHtrN8R2Lk96DNvRI_71LZC0E1/view?usp=sharing) para efetuarem a higienização do `mailing`.
 
-<br>
+<br />
 
-**<p style="text-align:center;font-size:25px">2.7 - Notificações do fim do Processo de importação</p>** <p style="text-align:center"><em>Clicando no</em> :bell:<em> abrirá as notificações, poderá ver o que aconteceu com o arquivo que colocou para importar.</p></em>
-<img src="notificacao.gif" height="560" style="display:block;margin-left:auto;margin-right:auto">
+>## 2.4 - Terminando a seleção.
 
-<br>
+_só_ `Iniciar importação` _clicando no botão inferior direito._
 
-# <p style="text-align: center">3 - Mailing Pronto!</p>
+![](configimprtacao.gif)
 
-**<p style="text-align:center;font-size:25px">3.1 - Caminho para vizualizar o mailing</p>** <em><p style="text-align:center">Clicando no canto superior esquerdo no </em> <img src="menu.png"><em> abrirá os menus, clicando em</em> :pencil: <strong style="text-decoration-line: underline">Mailings</strong><em> depois novamente em</em> <img src="mailing.png"> <strong style="text-decoration-line: underline">Mailings</strong>. <em>Veremos o arquivo importado.</em></p>
-<img src="mailingm.gif" height="560" style="display:block;margin-left:auto;margin-right:auto;">
+<br />
+
+>## **2.5 - Finalizando importação**
+
+_O arquivo fica nesta parte `IMPORTAÇÕES EM ANDAMENTO` até a finalização da importação._
+
+ ![](aguardando.gif)
+ 
+ #### 2.5.1 - ![](waarning.png) Tem a opção de carregar vários arquivos, mas o processo de importação é somente um por vez.
+
+<br />
+
+>## **2.6 - Arquivo inválidos**
+
+ _Caso haja registros inválidos, o sistema irá montar um novo arquivo contendo com esses registros inválidos e no final de cada registro terá o motivo ao qual impediu que ele fosse importado._
+_O arquivo terá o mesmo nome que você importou acrescentado a terminação INVÁLIDOS no final. ele aparecerá na área de arquivos_ `ARQUIVOS CARREGADOS` _porém, com a palavra_ `INVÁLIDOS` _do lado, podendo fazer o download do arquivo clicando na_ :arrow_down: _para possíveis correções, editar dentro do sistema mesmo, clicando na_ :pencil2:, _ou excluir os registros inválidos clicando na_ ![](lixeira.png).
+
+<br />
+
+>## **2.7 - Notificações do fim do Processo de importação** 
+
+_Clicando no_ :bell: _abrirá as notificações e poderá ver o que aconteceu com o arquivo que colocou para importar._
+![](notificacao.gif)
+
+<br />
+
+# 3 - Mailing Pronto!
+
+**3.1 - Caminho para vizualizar o mailing**
+
+ _Clicando no canto superior esquerdo no_ ![](menu.png) _abrirá os menus, clicando em_ :pencil: _*Mailings*_ _depois novamente em_ ![](mailing.png) *Mailings*. _Veremos o arquivo importado._
+![](mailingm.gif)
+
 
