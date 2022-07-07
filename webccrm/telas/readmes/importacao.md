@@ -100,5 +100,5 @@ _Clicando no_ :bell: _abrirá as notificações e poderá ver o que aconteceu co
 **3.1 - Caminho para vizualizar o mailing**
 
  _Clicando no canto superior esquerdo no_ ![](https://github.com/Makesystem/manuais/blob/main/webccrm/telas/img_padrao/menu.png) _abrirá os menus, clicando em_ :pencil: _*Mailings*_ _depois novamente em_ ![](https://github.com/Makesystem/manuais/blob/main/webccrm/telas/separacao_tela/tela_importacao_mailing/mailing.png) *Mailings*. _Veremos o arquivo importado._
-![](https://github.com/Makesystem/manuais/blob/main/webccrm/telas/separacao_tela/tela_importacao_mailing/mailingm.gif)
+![](https://github.com/Makesystem/manuais/blob/main/webccrm/telas/separacao_tela/tela_importacao_mailing/mailings.gif)
 
