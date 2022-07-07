@@ -45,7 +45,7 @@ _Arrasta o aquivo para o centro da caixa verde para começar a importação._
 
 _Clique no botão escrito `SELECIONE UM FORNECEDOR`, para dar continuidade no processo._
 
-![](/importacao/fornecedor.gif)
+![](https://github.com/Makesystem/manuais/blob/main/webccrm/telas/separacao_tela/tela_importacao_mailing/fornecedor.gif)
 
 ##### 2.2.1 - ![](https://github.com/Makesystem/manuais/blob/main/webccrm/telas/img_padrao/waarning.png) Para seguir o processo de importação é necessário selecionar um fornecedor.
 
