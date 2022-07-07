@@ -1,4 +1,4 @@
-[![drawing](/imgpadrao/logotipomakesystem.png)](https://www.makesystem.com.br/)
+[![drawing](https://github.com/Makesystem/manuais/blob/main/webccrm/telas/img_padrao/logotipomakesystem.png)](https://www.makesystem.com.br/)
 
 <br>
 
@@ -6,11 +6,11 @@
 
 ---
 
- [![](/imgpadrao/facebookescrito.png)](https://www.facebook.com/MakeSystem/)
- [![](/imgpadrao/whatsapp.png)](https://api.whatsapp.com/send?phone=555130661344)
- [![](/imgpadrao/linkedin.png)](https://www.linkedin.com/company/makesystem/)
- [![](/imgpadrao/ytbee.png)](https://www.youtube.com/channel/UCfFHvO7WDqIN8gXbC3bYtZw)
- [![](/imgpadrao/instagram.png)](https://www.instagram.com/makesystem_sistemas/)
+ [![](https://github.com/Makesystem/manuais/blob/main/webccrm/telas/img_padrao/facebookescrito.png)](https://www.facebook.com/MakeSystem/)
+ [![](https://github.com/Makesystem/manuais/blob/main/webccrm/telas/img_padrao/whatsapp.png)](https://api.whatsapp.com/send?phone=555130661344)
+ [![](https://github.com/Makesystem/manuais/blob/main/webccrm/telas/img_padrao/linkedin.png)](https://www.linkedin.com/company/makesystem/)
+ [![](https://github.com/Makesystem/manuais/blob/main/webccrm/telas/img_padrao/ytbee.png)](https://www.youtube.com/channel/UCfFHvO7WDqIN8gXbC3bYtZw)
+ [![](https://github.com/Makesystem/manuais/blob/main/webccrm/telas/img_padrao/instagram.png)](https://www.instagram.com/makesystem_sistemas/)
 
 <br />
 
@@ -20,26 +20,26 @@
 _Clicando no centro da caixa verde, abrirá uma opção de pesquisa de arquivo,
 seleciona o mesmo e clica em_ `Abrir` _para começar a importação._
 
-![](/importacao/primeiraopçãodeimportação.gif)
+![](https://github.com/Makesystem/manuais/blob/1522e2a05e4bc147d33ba6cec245b865a7a36ea0/webccrm/telas/separacao_tela/tela_importacao_mailing/primeiraop%C3%A7%C3%A3odeimporta%C3%A7%C3%A3o.gif)
 
 
 >## **1.2 - Segunda forma de importação** 
 _Clica no ícone no canto inferior direito onde abrirá uma opção de pesquisa de arquivo, seleciona o mesmo e clica em_ `Abrir` _para começar a importação._
 
-![](/importacao/segundaopçãodeimportação.gif)
+![](https://github.com/Makesystem/manuais/blob/1522e2a05e4bc147d33ba6cec245b865a7a36ea0/webccrm/telas/separacao_tela/tela_importacao_mailing/segundaop%C3%A7%C3%A3odeimporta%C3%A7%C3%A3o.gif)
 
 >## **1.3 - Terceira forma de importação**
 _Arrasta o aquivo para o centro da caixa verde para começar a importação._
 
-![](/importacao/terceiraopçãodeimportação.gif)
+![]([/importacao/terceiraopçãodeimportação.gif](https://github.com/Makesystem/manuais/blob/1522e2a05e4bc147d33ba6cec245b865a7a36ea0/webccrm/telas/separacao_tela/tela_importacao_mailing/terceiraop%C3%A7%C3%A3odeimporta%C3%A7%C3%A3o.gif))
 
-##### 1.3.1 - ![](/imgpadrao/waarning.png) Muito importante, o formato do arquivo tem que ser em [.csv](https://drive.google.com/file/d/1BHcN4QvCnNHDNB-jPDdUeCkT0hu0Ie7v/view?usp=sharing).
+##### 1.3.1 - ![](https://github.com/Makesystem/manuais/blob/main/webccrm/telas/img_padrao/waarning.png) Muito importante, o formato do arquivo tem que ser em [.csv](https://drive.google.com/file/d/1BHcN4QvCnNHDNB-jPDdUeCkT0hu0Ie7v/view?usp=sharing).
 
 # 2 - Trabalhando o arquivo.
 
 >## **2.1 - Clica no arquivo que foi importado**
 
-![](/importacao/arquivoteste.gif)
+![](https://github.com/Makesystem/manuais/blob/main/webccrm/telas/separacao_tela/tela_importacao_mailing/arquivoteste.gif)
 
 >## **2.2 - Selecionando o fornecedor**
 
@@ -47,15 +47,15 @@ _Clique no botão escrito `SELECIONE UM FORNECEDOR`, para dar continuidade no pr
 
 ![](/importacao/fornecedor.gif)
 
-##### 2.2.1 - ![](/imgpadrao/waarning.png) Para seguir o processo de importação é necessário selecionar um fornecedor.
+##### 2.2.1 - ![](https://github.com/Makesystem/manuais/blob/main/webccrm/telas/img_padrao/waarning.png) Para seguir o processo de importação é necessário selecionar um fornecedor.
 
 <br />
 
 >## **2.3 - Os campos obrigatórios da importação são:**
 
-![](/importacao/camposob.png)
+![](https://github.com/Makesystem/manuais/blob/main/webccrm/telas/separacao_tela/tela_importacao_mailing/camposob.png)
 
-##### 2.3.1 - ![](/imgpadrao/waarning.png) Os obrigatórios se desmarcados ficam em vermelho, o resto em cinza se desmarcado.
+##### 2.3.1 - ![](https://github.com/Makesystem/manuais/blob/main/webccrm/telas/img_padrao/waarning.png) Os obrigatórios se desmarcados ficam em vermelho, o resto em cinza se desmarcado.
 
 ##### 2.3.2 - Colocando os nomes corretamente as colunas serão preenchidas nos campos certos, deixaremos um [`ARQUIVO PADRÃO`](https://drive.google.com/file/d/14R_HsXNHtrN8R2Lk96DNvRI_71LZC0E1/view?usp=sharing) para efetuarem a higienização do `mailing`.
 
@@ -65,7 +65,7 @@ _Clique no botão escrito `SELECIONE UM FORNECEDOR`, para dar continuidade no pr
 
 _só_ `Iniciar importação` _clicando no botão inferior direito._
 
-![](/importacao/configimprtacao.gif)
+![](https://github.com/Makesystem/manuais/blob/main/webccrm/telas/separacao_tela/tela_importacao_mailing/configimprtacao.gif)
 
 <br />
 
@@ -73,25 +73,25 @@ _só_ `Iniciar importação` _clicando no botão inferior direito._
 
 _O arquivo fica nesta parte `IMPORTAÇÕES EM ANDAMENTO` até a finalização da importação._
 
- ![](/importacao/aguardando.gif)
+ ![](https://github.com/Makesystem/manuais/blob/main/webccrm/telas/separacao_tela/tela_importacao_mailing/aguardando.gif)
  
- #### 2.5.1 - ![](/imgpadrao/waarning.png) Tem a opção de carregar vários arquivos, mas o processo de importação é somente um por vez.
+ #### 2.5.1 - ![](https://github.com/Makesystem/manuais/blob/main/webccrm/telas/img_padrao/waarning.png) Tem a opção de carregar vários arquivos, mas o processo de importação é somente um por vez.
 
 <br />
 
 >## **2.6 - Arquivo inválidos**
 
  _Caso haja registros inválidos, o sistema irá montar um novo arquivo contendo com esses registros inválidos e no final de cada registro terá o motivo ao qual impediu que ele fosse importado._
-_O arquivo terá o mesmo nome que você importou acrescentado a terminação INVÁLIDOS no final. ele aparecerá na área de arquivos_ `ARQUIVOS CARREGADOS` _porém, com a palavra_ `INVÁLIDOS` _do lado, podendo fazer o download do arquivo clicando na_ :arrow_down: _para possíveis correções, editar dentro do sistema mesmo, clicando na_ :pencil2:, _ou excluir os registros inválidos clicando na_ ![](lixeira.png).
+_O arquivo terá o mesmo nome que você importou acrescentado a terminação INVÁLIDOS no final. ele aparecerá na área de arquivos_ `ARQUIVOS CARREGADOS` _porém, com a palavra_ `INVÁLIDOS` _do lado, podendo fazer o download do arquivo clicando na_ :arrow_down: _para possíveis correções, editar dentro do sistema mesmo, clicando na_ :pencil2:, _ou excluir os registros inválidos clicando na_ ![](https://github.com/Makesystem/manuais/blob/main/webccrm/telas/img_padrao/lixeira.png).
 
-![](/importacao/invalido.gif)
+![](https://github.com/Makesystem/manuais/blob/main/webccrm/telas/separacao_tela/tela_importacao_mailing/invalido.gif)
 
 <br />
 
 >## **2.7 - Notificações do fim do Processo de importação** 
 
 _Clicando no_ :bell: _abrirá as notificações e poderá ver o que aconteceu com o arquivo que colocou para importar._
-![](/importacao/notificacao.gif)
+![](https://github.com/Makesystem/manuais/blob/main/webccrm/telas/separacao_tela/tela_importacao_mailing/notificacao.gif)
 
 <br />
 
@@ -99,6 +99,6 @@ _Clicando no_ :bell: _abrirá as notificações e poderá ver o que aconteceu co
 
 **3.1 - Caminho para vizualizar o mailing**
 
- _Clicando no canto superior esquerdo no_ ![](menu.png) _abrirá os menus, clicando em_ :pencil: _*Mailings*_ _depois novamente em_ ![](mailing.png) *Mailings*. _Veremos o arquivo importado._
-![](/importacao/mailingm.gif)
+ _Clicando no canto superior esquerdo no_ ![](https://github.com/Makesystem/manuais/blob/main/webccrm/telas/img_padrao/menu.png) _abrirá os menus, clicando em_ :pencil: _*Mailings*_ _depois novamente em_ ![](https://github.com/Makesystem/manuais/blob/main/webccrm/telas/separacao_tela/tela_importacao_mailing/mailing.png) *Mailings*. _Veremos o arquivo importado._
+![](https://github.com/Makesystem/manuais/blob/main/webccrm/telas/separacao_tela/tela_importacao_mailing/mailingm.gif)
 
