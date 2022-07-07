@@ -39,7 +39,7 @@ _Arrasta o aquivo para o centro da caixa verde para começar a importação._
 
 >## **2.1 - Clica no arquivo que foi importado**
 
-![Clicar no arquivo](https://github.com/Makesystem/manuais/blob/main/webccrm/telas/separacao_tela/tela_importacao_mailing/arquivoteste.gif)
+![Clicar no arquivo](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/separacao_tela/tela_importacao_mailing/arquivoteste.gif)
 
 >## **2.2 - Selecionando o fornecedor**
 
@@ -73,7 +73,7 @@ _só_ `Iniciar importação` _clicando no botão inferior direito._
 
 _O arquivo fica nesta parte `IMPORTAÇÕES EM ANDAMENTO` até a finalização da importação._
 
- ![Aguardando](https://github.com/Makesystem/manuais/blob/main/webccrm/telas/separacao_tela/tela_importacao_mailing/aguardando.gif)
+ ![Aguardando](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/separacao_tela/tela_importacao_mailing/aguardando.gif)
  
  #### 2.5.1 - ![Warning](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/img_padrao/waarning.png) Tem a opção de carregar vários arquivos, mas o processo de importação é somente um por vez.
 
