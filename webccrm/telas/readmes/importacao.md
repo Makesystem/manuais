@@ -1,4 +1,4 @@
-[![LOGO MAKE](https://github.com/Makesystem/manuais/blob/main/webccrm/telas/img_padrao/logotipomakesystem.png)](https://www.makesystem.com.br/)
+[![LOGO MAKE](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/img_padrao/logotipomakesystem.png)](https://www.makesystem.com.br/)
 
 <br>
 
@@ -6,11 +6,11 @@
 
 ---
 
- [![Facebook](https://github.com/Makesystem/manuais/blob/main/webccrm/telas/img_padrao/facebookescrito.png)](https://www.facebook.com/MakeSystem/)
- [![Whatsapp](https://github.com/Makesystem/manuais/blob/main/webccrm/telas/img_padrao/whatsapp.png)](https://api.whatsapp.com/send?phone=555130661344)
- [![Linkedin](https://github.com/Makesystem/manuais/blob/main/webccrm/telas/img_padrao/linkedin.png)](https://www.linkedin.com/company/makesystem/)
- [![Youtube](https://github.com/Makesystem/manuais/blob/main/webccrm/telas/img_padrao/ytbee.png)](https://www.youtube.com/channel/UCfFHvO7WDqIN8gXbC3bYtZw)
- [![Instagram](https://github.com/Makesystem/manuais/blob/main/webccrm/telas/img_padrao/instagram.png)](https://www.instagram.com/makesystem_sistemas/)
+ [![Facebook](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/img_padrao/facebookescrito.png)](https://www.facebook.com/MakeSystem/)
+ [![Whatsapp](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/img_padrao/whatsapp.png)](https://api.whatsapp.com/send?phone=555130661344)
+ [![Linkedin](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/img_padrao/linkedin.png)](https://www.linkedin.com/company/makesystem/)
+ [![Youtube](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/img_padrao/ytbee.png)](https://www.youtube.com/channel/UCfFHvO7WDqIN8gXbC3bYtZw)
+ [![Instagram](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/img_padrao/instagram.png)](https://www.instagram.com/makesystem_sistemas/)
 
 <br />
 
