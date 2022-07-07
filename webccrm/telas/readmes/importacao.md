@@ -84,7 +84,7 @@ _O arquivo fica nesta parte `IMPORTAÇÕES EM ANDAMENTO` até a finalização da
  _Caso haja registros inválidos, o sistema irá montar um novo arquivo contendo com esses registros inválidos e no final de cada registro terá o motivo ao qual impediu que ele fosse importado._
 _O arquivo terá o mesmo nome que você importou acrescentado a terminação INVÁLIDOS no final. ele aparecerá na área de arquivos_ `ARQUIVOS CARREGADOS` _porém, com a palavra_ `INVÁLIDOS` _do lado, podendo fazer o download do arquivo clicando na_ :arrow_down: _para possíveis correções, editar dentro do sistema mesmo, clicando na_ :pencil2:, _ou excluir os registros inválidos clicando na_ ![Lixeira](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/img_padrao/lixeira.png).
 
-![Inválido](https://github.com/Makesystem/manuais/blob/main/webccrm/telas/separacao_tela/tela_importacao_mailing/invalido.gif)
+![Inválido](https://github.com/Makesystem/manuais/raw/main/webccrm/telas/separacao_tela/tela_importacao_mailing/invalido.gif)
 
 <br />
 
