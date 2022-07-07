@@ -20,7 +20,7 @@
 _Clicando no centro da caixa verde, abrirá uma opção de pesquisa de arquivo,
 seleciona o mesmo e clica em_ `Abrir` _para começar a importação._
 
-![Primeira Opção](/webccrm/telas/separacao_tela/tela_importacao_mailing/primeiraop%C3%A7%C3%A3odeimporta%C3%A7%C3%A3o.gif)
+![Primeira Opção](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/separacao_tela/tela_importacao_mailing/primeiraop%C3%A7%C3%A3odeimporta%C3%A7%C3%A3o.gif)
 
 
 >## **1.2 - Segunda forma de importação** 
