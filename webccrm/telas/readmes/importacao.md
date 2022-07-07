@@ -45,7 +45,7 @@ _Arrasta o aquivo para o centro da caixa verde para começar a importação._
 
 _Clique no botão escrito `SELECIONE UM FORNECEDOR`, para dar continuidade no processo._
 
-![Fornecedor](https://github.com/Makesystem/manuais/blob/main/webccrm/telas/separacao_tela/tela_importacao_mailing/fornecedor.gif)
+![Fornecedor](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/separacao_tela/tela_importacao_mailing/fornecedor.gif)
 
 ##### 2.2.1 - ![Warning](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/img_padrao/waarning.png) Para seguir o processo de importação é necessário selecionar um fornecedor.
 
@@ -53,7 +53,7 @@ _Clique no botão escrito `SELECIONE UM FORNECEDOR`, para dar continuidade no pr
 
 >## **2.3 - Os campos obrigatórios da importação são:**
 
-![](https://github.com/Makesystem/manuais/blob/main/webccrm/telas/separacao_tela/tela_importacao_mailing/camposob.png)
+![](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/separacao_tela/tela_importacao_mailing/camposob.png)
 
 ##### 2.3.1 - ![Warning](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/img_padrao/waarning.png) Os obrigatórios se desmarcados ficam em vermelho, o resto em cinza se desmarcado.
 
@@ -65,7 +65,7 @@ _Clique no botão escrito `SELECIONE UM FORNECEDOR`, para dar continuidade no pr
 
 _só_ `Iniciar importação` _clicando no botão inferior direito._
 
-![Configuração da Importação](https://github.com/Makesystem/manuais/blob/main/webccrm/telas/separacao_tela/tela_importacao_mailing/configimprtacao.gif)
+![Configuração da Importação](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/separacao_tela/tela_importacao_mailing/camposob.png)
 
 <br />
 
@@ -84,7 +84,8 @@ _O arquivo fica nesta parte `IMPORTAÇÕES EM ANDAMENTO` até a finalização da
  _Caso haja registros inválidos, o sistema irá montar um novo arquivo contendo com esses registros inválidos e no final de cada registro terá o motivo ao qual impediu que ele fosse importado._
 _O arquivo terá o mesmo nome que você importou acrescentado a terminação INVÁLIDOS no final. ele aparecerá na área de arquivos_ `ARQUIVOS CARREGADOS` _porém, com a palavra_ `INVÁLIDOS` _do lado, podendo fazer o download do arquivo clicando na_ :arrow_down: _para possíveis correções, editar dentro do sistema mesmo, clicando na_ :pencil2:, _ou excluir os registros inválidos clicando na_ ![Lixeira](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/img_padrao/lixeira.png).
 
-![Inválido](https://github.com/Makesystem/manuais/blob/main/webccrm/telas/separacao_tela/tela_importacao_mailing/invalido.gif)
+![Inválido](https://github.com/Makesystem/manuais/blob/b345486b7888cb06c6baeb35f69d71e781b1ac32/webccrm/telas/separacao_tela/tela_importacao_mailing/invalido.gif
+)
 
 <br />
 
