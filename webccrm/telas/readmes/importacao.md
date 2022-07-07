@@ -26,12 +26,12 @@ seleciona o mesmo e clica em_ `Abrir` _para começar a importação._
 >## **1.2 - Segunda forma de importação** 
 _Clica no ícone no canto inferior direito onde abrirá uma opção de pesquisa de arquivo, seleciona o mesmo e clica em_ `Abrir` _para começar a importação._
 
-![Segunda Opção](https://raw.githubusercontent.com/Makesystem/manuais/blob/1522e2a05e4bc147d33ba6cec245b865a7a36ea0/webccrm/telas/separacao_tela/tela_importacao_mailing/segundaop%C3%A7%C3%A3odeimporta%C3%A7%C3%A3o.gif)
+![Segunda Opção](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/separacao_tela/tela_importacao_mailing/segundaop%C3%A7%C3%A3odeimporta%C3%A7%C3%A3o.gif)
 
 >## **1.3 - Terceira forma de importação**
 _Arrasta o aquivo para o centro da caixa verde para começar a importação._
 
-![Terceira Opção](https://github.com/Makesystem/manuais/blob/main/webccrm/telas/separacao_tela/tela_importacao_mailing/terceiraop%C3%A7%C3%A3odeimporta%C3%A7%C3%A3o.gif)
+![Terceira Opção](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/separacao_tela/tela_importacao_mailing/terceiraop%C3%A7%C3%A3odeimporta%C3%A7%C3%A3o.gif)
 
 ##### 1.3.1 - ![Warning](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/img_padrao/waarning.png) Muito importante, o formato do arquivo tem que ser em [.csv](https://drive.google.com/file/d/1BHcN4QvCnNHDNB-jPDdUeCkT0hu0Ie7v/view?usp=sharing).
 
