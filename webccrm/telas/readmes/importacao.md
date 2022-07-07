@@ -9,7 +9,7 @@
  [![Facebook](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/img_padrao/facebookescrito.png)](https://www.facebook.com/MakeSystem/)
  [![Whatsapp](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/img_padrao/whatsapp.png)](https://api.whatsapp.com/send?phone=555130661344)
  [![Linkedin](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/img_padrao/linkedin.png)](https://www.linkedin.com/company/makesystem/)
- [![Youtube](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/img_padrao/ytbee.png)](https://www.youtube.com/channel/UCfFHvO7WDqIN8gXbC3bYtZw)
+ [![Youtube](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/img_padrao/ytbee.png)](https://youtu.be/5z0kGzGp7zo?t=12)
  [![Instagram](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/img_padrao/instagram.png)](https://www.instagram.com/makesystem_sistemas/)
 
 <br />
@@ -89,6 +89,7 @@ _O arquivo terá o mesmo nome que você importou acrescentado a terminação INV
 >## **2.7 - Notificações do fim do Processo de importação** 
 
 _Clicando no_ :bell: _abrirá as notificações e poderá ver o que aconteceu com o arquivo que colocou para importar._
+
 ![Notificação](https://github.com/Makesystem/manuais/raw/main/webccrm/telas/separacao_tela/tela_importacao_mailing/notificacao.gif)
 
 <br />
