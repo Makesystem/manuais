@@ -80,7 +80,7 @@ _O arquivo fica nesta parte `IMPORTAÇÕES EM ANDAMENTO` até a finalização da
 >## **2.6 - Arquivo inválidos**
 
  _Caso haja registros inválidos, o sistema irá montar um novo arquivo contendo com esses registros inválidos e no final de cada registro terá o motivo ao qual impediu que ele fosse importado._
-_O arquivo terá o mesmo nome que você importou acrescentado a terminação INVÁLIDOS no final. ele aparecerá na área de arquivos_ `ARQUIVOS CARREGADOS` _porém, com a palavra_ `INVÁLIDOS` _do lado, podendo fazer o download do arquivo clicando na_ :arrow_down: _para possíveis correções, editar dentro do sistema mesmo, clicando na_ :pencil2:, _ou excluir os registros inválidos clicando na_ ![Lixeira](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/img_padrao/lixeira.png).
+_O arquivo terá o mesmo nome que você importou acrescentado a terminação INVÁLIDOS no final. ele aparecerá na área de arquivos_ `ARQUIVOS CARREGADOS` _porém, com a palavra_ `INVÁLIDOS` _do lado, podendo fazer o download do arquivo clicando na_ ![](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/img_padrao/baixar2.png)  _para possíveis correções, editar dentro do sistema mesmo, clicando na_ ![](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/img_padrao/caneta.png), _ou excluir os registros inválidos clicando na_ ![Lixeira](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/img_padrao/lixeira.png).
 
 ![Inválido](https://github.com/Makesystem/manuais/raw/main/webccrm/telas/separacao_tela/tela_importacao_mailing/invalido.gif)
 
@@ -88,7 +88,7 @@ _O arquivo terá o mesmo nome que você importou acrescentado a terminação INV
 
 >## **2.7 - Notificações do fim do Processo de importação** 
 
-_Clicando no_ :bell: _abrirá as notificações e poderá ver o que aconteceu com o arquivo que colocou para importar._
+_Clicando no_ ![](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/img_padrao/sino.png) _abrirá as notificações e poderá ver o que aconteceu com o arquivo que colocou para importar._
 
 ![Notificação](https://github.com/Makesystem/manuais/raw/main/webccrm/telas/separacao_tela/tela_importacao_mailing/notificacao.gif)
 
@@ -98,7 +98,7 @@ _Clicando no_ :bell: _abrirá as notificações e poderá ver o que aconteceu co
 
 **3.1 - Caminho para vizualizar o mailing**
 
- _Clicando no canto superior esquerdo no_ ![Icon Menu](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/img_padrao/menu.png) _abrirá os menus, clicando em_ :pencil: _*Mailings*_ _depois novamente em_ ![Icon Mailing](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/separacao_tela/tela_importacao_mailing/mailing.png) *Mailings*. _Veremos o arquivo importado._
+ _Clicando no canto superior esquerdo no_ ![Icon Menu](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/img_padrao/menu.png) _abrirá os menus, clicando em_ ![](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/img_padrao/mailing2.png) _*Mailings*_ _depois novamente em_ ![Icon Mailing](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/separacao_tela/tela_importacao_mailing/mailing.png) *Mailings*. _Veremos o arquivo importado._
  
 ![Impotação do Mailing Pronto](https://github.com/Makesystem/manuais/raw/main/webccrm/telas/separacao_tela/tela_importacao_mailing/mailings.gif)
 
