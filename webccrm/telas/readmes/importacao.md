@@ -1,4 +1,4 @@
-[![drawing](https://github.com/Makesystem/manuais/blob/main/webccrm/telas/img_padrao/logotipomakesystem.png)](https://www.makesystem.com.br/)
+[![LOGO MAKE](https://github.com/Makesystem/manuais/blob/main/webccrm/telas/img_padrao/logotipomakesystem.png)](https://www.makesystem.com.br/)
 
 <br>
 
