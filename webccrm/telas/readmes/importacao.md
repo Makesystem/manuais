@@ -65,8 +65,6 @@ _Clique no botão escrito `SELECIONE UM FORNECEDOR`, para dar continuidade no pr
 
 _só_ `Iniciar importação` _clicando no botão inferior direito._
 
-![Configuração da Importação](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/separacao_tela/tela_importacao_mailing/camposob.png)
-
 <br />
 
 >## **2.5 - Finalizando importação**
