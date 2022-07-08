@@ -43,7 +43,7 @@
  
 
 ## __2.2 - Exportar dados dos usuários__
-_Clicardo no botão_ ![Baixar](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/img_padrao/baixar2.png) .
+* _Clicardo no botão_ ![Baixar](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/img_padrao/baixar2.png) .
 
 > ![Baixar](https://github.com/Makesystem/manuais/raw/main/webccrm/telas/separacao_tela/tela_usuarios/baixar.gif)
 
