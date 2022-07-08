@@ -1,5 +1,3 @@
-[![LOGO MAKE](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/img_padrao/logotipomakesystem.png)](https://www.makesystem.com.br/)
-
 <br>
 
 # IMPORTAÇÃO DE MAILING
