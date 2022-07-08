@@ -22,7 +22,7 @@
 *  _Clicamos no menu ![Menu](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/img_padrao/menu.png)_ ;
 *  _Depois clicamos em_ ![Usuários](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/img_padrao/usuarios.png) `Usuários` -> ![Usuários](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/img_padrao/usuarios.png) `Usuários` ;
 
-![Caminho](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/separacao_tela/tela_usuarios/caminho.gif)
+> ![Caminho](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/separacao_tela/tela_usuarios/caminho.gif)
 ##### 1.1.1 - ![Warning](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/img_padrao/waarning.png) Para ter acesso as telas de ![Usuários](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/img_padrao/usuarios.png) `Usuários`, o perfil terá que ter permissão.
 
 <br />
@@ -35,7 +35,7 @@
 > * _Filtrar por Status_ -> `Ativos`, `Inativos` _ou_ `Ambos` ;
 > * _Filtrar por Perfil_ ;
 
-![Filtros](https://github.com/Makesystem/manuais/raw/main/webccrm/telas/separacao_tela/tela_usuarios/filtros.gif)
+> ![Filtros](https://github.com/Makesystem/manuais/raw/main/webccrm/telas/separacao_tela/tela_usuarios/filtros.gif)
 
 > ##### 2.1.1 - ![Warning](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/img_padrao/waarning.png) Mesmo tendo a opção de a opção de ![Lixeira](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/img_padrao/lixeira.png)`Excluir` o usuário, ele não será efetivamente excluído e sim inativado, pois não excluímos qualquer tipo de dados do sistema.
 > ##### 2.1.2 - ![Warning](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/img_padrao/waarning.png) _Bloquear por inatividade_ - Todo usuário que permanecer sem conectar no sistema pelo tempo estabelecido, será automaticamente bloqueado, `valor default 45 dias`.
@@ -45,7 +45,7 @@
 ## __2.2 - Exportar dados dos usuários__
 _Clicardo no botão_ ![Baixar](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/img_padrao/baixar2.png) .
 
-![Baixar](https://github.com/Makesystem/manuais/raw/main/webccrm/telas/separacao_tela/tela_usuarios/baixar.gif)
+> ![Baixar](https://github.com/Makesystem/manuais/raw/main/webccrm/telas/separacao_tela/tela_usuarios/baixar.gif)
 
 <br />
 
