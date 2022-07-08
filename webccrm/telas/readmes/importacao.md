@@ -100,3 +100,7 @@ _Clicando no_ ![](https://raw.githubusercontent.com/Makesystem/manuais/main/webc
  
 ![Impotação do Mailing Pronto](https://github.com/Makesystem/manuais/raw/main/webccrm/telas/separacao_tela/tela_importacao_mailing/mailings.gif)
 
+---
+
+# Ficou com alguma dúvida entre em contato com o [Suporte](http://api.whatsapp.com/send?1=pt_BR&phone=555130661344).
+---
