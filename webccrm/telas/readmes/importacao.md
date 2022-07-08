@@ -5,9 +5,13 @@
 ---
 
  [![Facebook](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/img_padrao/facebookescrito.png)](https://www.facebook.com/MakeSystem/)
+ ![divisor](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/img_padrao/divisor.png)
  [![Whatsapp](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/img_padrao/whatsapp.png)](https://api.whatsapp.com/send?phone=555130661344)
+ ![divisor](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/img_padrao/divisor.png)
  [![Linkedin](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/img_padrao/linkedin.png)](https://www.linkedin.com/company/makesystem/)
+ ![divisor](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/img_padrao/divisor.png)
  [![Youtube](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/img_padrao/ytbee.png)](https://youtu.be/5z0kGzGp7zo?t=12)
+ ![divisor](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/img_padrao/divisor.png)
  [![Instagram](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/img_padrao/instagram.png)](https://www.instagram.com/makesystem_sistemas/)
 
 <br />
