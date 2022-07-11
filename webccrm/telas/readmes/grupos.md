@@ -16,7 +16,7 @@
  # 1 - Chegando na tela Grupos
  >## __1.1 - Caminho__
  * _Clicamos no_ ![Menu](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/img_padrao/menu.png) ;
- * _Depois clicamos em_ `Usuários` ![Usuários](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/img_padrao/usuarios.png) -> `Grupos` ![Grupos](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/img_padrao/grupo.png) ;
+ * _Depois clicamos em_ `Usuários` ![Usuários](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/img_padrao/usuarios.png) -> ![Grupos](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/img_padrao/grupo.png) `Grupos` ;
 
 ![Caminho Grupo](https://github.com/Makesystem/manuais/raw/main/webccrm/telas/separacao_tela/tela_grupos/caminho.gif)
 ##### 1.1.1 - ![Warning](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/img_padrao/waarning.png) Para ter acesso as telas de ![Usuários](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/img_padrao/usuarios.png) `Usuários`, o perfil terá que ter permissão.
