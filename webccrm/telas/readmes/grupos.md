@@ -58,7 +58,7 @@
 * _Clicando no ![Ativo](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/img_padrao/ativo.png) aparecerá os inátivos_ ;
 * _Clicando no ![Inativo](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/img_padrao/intativo.png) esconderá os inátivos_ ;
 * _Tem a opção trasferir o usuário para outro grupo, só clicando com o botão esquerdo e segurando mouse e arrastar_ ;
-> ![Explicando as Funções](https://github.com/Makesystem/manuais/blob/main/webccrm/telas/separacao_tela/tela_grupos/explicaTela.gif)
+> ![Explicando as Funções](https://github.com/Makesystem/manuais/raw/main/webccrm/telas/separacao_tela/tela_grupos/explicaTela.gif)
 
 ---
 
