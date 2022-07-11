@@ -18,7 +18,7 @@
  * _Clicamos no_ ![Menu](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/img_padrao/menu.png) ;
  * _Depois clicamos em_ `Usuários` ![Usuários](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/img_padrao/usuarios.png) -> `Grupos` ![Grupos](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/img_padrao/grupo.png) ;
 
-> ![Caminho Grupo](https://github.com/Makesystem/manuais/raw/main/webccrm/telas/separacao_tela/tela_grupos/caminho.gif)
+![Caminho Grupo](https://github.com/Makesystem/manuais/raw/main/webccrm/telas/separacao_tela/tela_grupos/caminho.gif)
 ##### 1.1.1 - ![Warning](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/img_padrao/waarning.png) Para ter acesso as telas de ![Usuários](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/img_padrao/usuarios.png) `Usuários`, o perfil terá que ter permissão.
 
 <br />
@@ -29,8 +29,9 @@
 * _Para criar um novo clica no_ ![+](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/img_padrao/%2B.png) ;
 * _Abrirá uma caixa para digitar o_ `Nome do Grupo` ;
 * _Só clicar no_ ![Salvar](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/img_padrao/salvar.png) ;
-> ![Criando Grupo](https://github.com/Makesystem/manuais/raw/main/webccrm/telas/separacao_tela/tela_grupos/criandoGrupo.gif)
-> 
+
+![Criando Grupo](https://github.com/Makesystem/manuais/raw/main/webccrm/telas/separacao_tela/tela_grupos/criandoGrupo.gif)
+ 
 <br />
 
 # 3 - Edição e Exclusão
@@ -39,7 +40,8 @@
 * _Clicamos no ícone_ ![Caneta](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/img_padrao/caneta.png) ;
 * _Abrirá uma caixa para alterar o nome do Grupo_ ;
 * _Só clicar no_ ![Salvar](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/img_padrao/salvar.png) ;
-> ![Editando Grupo](https://github.com/Makesystem/manuais/raw/main/webccrm/telas/separacao_tela/tela_grupos/editando.gif)
+
+![Editando Grupo](https://github.com/Makesystem/manuais/raw/main/webccrm/telas/separacao_tela/tela_grupos/editando.gif)
 
 >## __3.2 - Excluindo Grupos__
 * _Selecionamos o Grupo que será excluído_ ;
@@ -58,7 +60,8 @@
 * _Clicando no ![Ativo](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/img_padrao/ativo.png) aparecerá os inátivos_ ;
 * _Clicando no ![Inativo](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/img_padrao/intativo.png) esconderá os inátivos_ ;
 * _Tem a opção trasferir o usuário para outro grupo, só clicando com o botão esquerdo e segurando mouse e arrastar_ ;
-> ![Explicando as Funções](https://github.com/Makesystem/manuais/raw/main/webccrm/telas/separacao_tela/tela_grupos/explicaTela.gif)
+
+![Explicando as Funções](https://github.com/Makesystem/manuais/raw/main/webccrm/telas/separacao_tela/tela_grupos/explicaTela.gif)
 
 ---
 
