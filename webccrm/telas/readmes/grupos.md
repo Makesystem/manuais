@@ -3,7 +3,6 @@
 ---
 
  [![Facebook](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/img_padrao/facebookescrito.png)](https://www.facebook.com/MakeSystem/)
- ![](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/img_padrao/divisor.png)
  [![WhatsApp](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/img_padrao/whatsapp.png)](https://api.whatsapp.com/send?phone=555130661344)
  ![](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/img_padrao/divisor.png)
  [![Linkedin](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/img_padrao/linkedin.png)](https://www.linkedin.com/company/makesystem/)
