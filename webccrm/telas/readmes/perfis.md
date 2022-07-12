@@ -31,9 +31,9 @@
   
 ![Explicação_Perfil](https://github.com/Makesystem/manuais/raw/main/webccrm/telas/separacao_tela/tela_perfis/explicacaoPerfil.gif)
 
-<br />
-
 ###### 2.1.1 - ![Warning](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/img_padrao/waarning.png) O `Perfil` com a ![Perfil_adm](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/separacao_tela/tela_perfis/adm.png) terá acesso a todas as telas do sistema.
+
+<br />
 
 # 3 - Edição
 >## __3.1 - Editando Perfil__
