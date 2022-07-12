@@ -5,7 +5,6 @@
 ---
 
  [![Facebook](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/img_padrao/facebookescrito.png)](https://www.facebook.com/MakeSystem/)
- ![divisor](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/img_padrao/divisor.png)
  [![WhatsApp](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/img_padrao/whatsapp.png)](https://api.whatsapp.com/send?phone=555130661344)
  ![divisor](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/img_padrao/divisor.png)
  [![Linkedin](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/img_padrao/linkedin.png)](https://www.linkedin.com/company/makesystem/)
@@ -52,37 +51,42 @@
 ## __3 - Criando um usuário novo__
 
 >### __3.1 - Informações Pessoais__ 
->>* Clica no botão de novo Usuário ![Botão_Usuário](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/img_padrao/usuarios.png) ;
->>* Vai abrir uma caixa escrito `Novo usuário` ;
->>* Temos a opção de colocar uma foto, clicando ![Pessoa](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/img_padrao/pessoa.png) abrirá uma caixa para opção de escolha da foto ;
->>* Começamos colocando o `Login` ;
+>>* _Clica no botão de novo Usuário_ ![Botão_Usuário](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/img_padrao/usuarios.png) ;
+>>* _Vai abrir uma caixa escrito_ `Novo usuário` ;
+>>* _Temos a opção de colocar uma foto, clicando_ ![Pessoa](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/img_padrao/pessoa.png) _abrirá uma caixa para opção de escolha da foto_ ;
+>>* _Começamos colocando o_ `Login` ;
 >>>###### O login depois de criado não pode ser alterado.
->>* Cadastro Nome, Documento (CPF, CNPJ) e E-mail ;
+>>* _Cadastro Nome, Documento_ (CPF, CNPJ) _e E-mail_ ;
 >>>###### Para criação do usuário os obrigatórios são Login e Nome.
 >>>###### Documento e E-mail podem ser trocados ou removidos.
->>* Login de Terceiros;
+>>* _Login de Terceiros_ ;
 >>>###### Login de Terceiros é uma seleção de Caster, para quem tem o módulo `Caster` ativo.
 >>
 >> ![GIF_Informação_Pessoal](https://github.com/Makesystem/manuais/raw/main/webccrm/telas/separacao_tela/tela_usuarios/informacaoPessoal.gif)
 ><br />
 >
 >### __3.2 - Grupo__
->* Seleciona o Grupo ;
+>* _Seleciona o Grupo_ ;
 >>>###### Quando selecionado essa opção ![PNG_Ver_Usuários](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/separacao_tela/tela_usuarios/verusuarios.png) o usuário verá as ações dos outros que estiverem no mesmo nível que ele no grupo.
->>* Seleciona o Perfil ;
+>>* _Seleciona o Perfil_ ;
 >>>###### Aqui estão todos os perfis que o usuário pode ser vinculado, está função é responsável por definir o que o usuário terá acesso dentro do sistema.
->>* Seleciona o Canal ;
+>>* _Seleciona o Canal_ ;
 >>>###### Canais é uma opção de filtro na criação de pacotes na funcionalidade `Pacotes por Região`.
 >>
 >> ![GIF_Grupo](https://github.com/Makesystem/manuais/raw/main/webccrm/telas/separacao_tela/tela_usuarios/grupo.gif)
 >### __3.3 Telefonia__
->>* Sip
->>* Ramal(Agente)
->>* Senha
+>>* _Sip_ ;
+>>* _Ramal(Agente)_ ;
+>>* _Senha_ ;
 >>>###### Só aparece para quem tem o módulo de `Telefonia` ativo
 >>>###### São configurações que a telefonia e nós da Makesystem que setamos.
 
 ---
 
-# Ficou com alguma dúvida entre em contato com o [Suporte](http://api.whatsapp.com/send?1=pt_BR&phone=555130661344)
+# Ficou com alguma dúvida? entre em contato com o [Suporte](http://api.whatsapp.com/send?1=pt_BR&phone=555130661344)
+
+### Todos os links que temos aqui podem ser abertos de duas maneiras:
+* _Clicando com o botão direito do mouse -> `Abrir link em uma nova guia`_ ;
+* _Clicando com o `Scroll` do mouse no link_ ;
+
 ---
