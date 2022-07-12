@@ -5,7 +5,6 @@
 ---
 
  [![Facebook](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/img_padrao/facebookescrito.png)](https://www.facebook.com/MakeSystem/)
- ![divisor](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/img_padrao/divisor.png)
  [![Whatsapp](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/img_padrao/whatsapp.png)](https://api.whatsapp.com/send?phone=555130661344)
  ![divisor](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/img_padrao/divisor.png)
  [![Linkedin](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/img_padrao/linkedin.png)](https://www.linkedin.com/company/makesystem/)
@@ -106,6 +105,10 @@ _Clicando no_ ![](https://raw.githubusercontent.com/Makesystem/manuais/main/webc
 
 ---
 
-# Ficou com alguma dúvida entre em contato com o [Suporte](http://api.whatsapp.com/send?1=pt_BR&phone=555130661344).
+# Ficou com alguma dúvida? entre em contato com o [Suporte](http://api.whatsapp.com/send?1=pt_BR&phone=555130661344)
+
+### Todos os links que temos aqui podem ser abertos de duas maneiras:
+* _Clicando com o botão direito do mouse -> `Abrir link em uma nova guia`_ ;
+* _Clicando com o `Scroll` do mouse no link_ ;
 
 ---
