@@ -18,7 +18,7 @@
  * _Clicamos no_ ![menu()](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/img_padrao/menu.png) ;
  * _Depois clicamos em_ `Usuários` ![Usuários](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/img_padrao/usuarios.png) ->  ![Perfis](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/img_padrao/perfis.png) `Perfis` ;
   
-  ![Caminho Perfil](https://github.com/Makesystem/manuais/raw/main/webccrm/telas/separacao_tela/tela_perfis/caminho.gif)
+![Caminho Perfil](https://github.com/Makesystem/manuais/raw/main/webccrm/telas/separacao_tela/tela_perfis/caminho.gif)
 
 <br />
 
@@ -31,6 +31,8 @@
   
 ![Explicação_Perfil](https://github.com/Makesystem/manuais/raw/main/webccrm/telas/separacao_tela/tela_perfis/explicacaoPerfil.gif)
 
+<br />
+
 ###### 2.1.1 - ![Warning](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/img_padrao/waarning.png) O `Perfil` com a ![Perfil_adm](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/separacao_tela/tela_perfis/adm.png) terá acesso a todas as telas do sistema.
 
 # 3 - Edição
@@ -40,6 +42,8 @@
 * _Feito a modificação, clica em_ ![Salvar](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/img_padrao/salvar.png) ;
 
 ![Editando_Perfil](https://github.com/Makesystem/manuais/raw/main/webccrm/telas/separacao_tela/tela_perfis/editando.gif)
+
+<br />
 
 # 4 - Excluindo
 >## __4.1 - Excluindo Perfil__
@@ -53,6 +57,9 @@
 
 ---
 
-# Ficou com alguma dúvida entre em contato com o [Suporte](http://api.whatsapp.com/send?1=pt_BR&phone=555130661344)
+# Ficou com alguma dúvida? entre em contato com o [Suporte](http://api.whatsapp.com/send?1=pt_BR&phone=555130661344)
 
+### Todos os links que temos aqui podem ser abertos de duas maneiras:
+* _Clicando com o botão direito do mouse -> `Abrir link em uma nova guia`_ ;
+* _Clicando com o `Scroll` do mouse no link_ ;
 ---
