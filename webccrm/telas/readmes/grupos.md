@@ -65,7 +65,11 @@
 
 ---
 
-# Ficou com alguma dúvida entre em contato com o [Suporte](http://api.whatsapp.com/send?1=pt_BR&phone=555130661344)
+# Ficou com alguma dúvida? entre em contato com o [Suporte](http://api.whatsapp.com/send?1=pt_BR&phone=555130661344)
+
+### Todos os links que temos aqui podem ser abertos de duas maneiras:
+* _Clicando com o botão direito do mouse -> `Abrir link em uma nova guia`_ ;
+* _Clicando com o `Scroll` do mouse no link_ ;
 
 ---
 
