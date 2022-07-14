@@ -1,5 +1,3 @@
-<br>
-
 # IMPORTAÇÃO DE MAILING
 
 ---
