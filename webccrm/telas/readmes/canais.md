@@ -4,6 +4,8 @@
 
 [![Logo_make](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/img_padrao/make.png)](https://www.makesystem.com.br/)
 
+---
+
 # 1 - Chegando na tela Canais
 >## __1.1 - Caminho__
 * _Clicamos no_ ![menu](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/img_padrao/menu.png) ;
