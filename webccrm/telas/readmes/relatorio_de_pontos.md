@@ -51,7 +51,7 @@
 
 # 3 - Opções de Salvamento dos dados
 >## __3.1 - Salvar como imagem__
-* _Para salvar como imagem é só clicar no ícone_ ![SalvarComoImagem](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/separacao_tela/tela_relatorio_de_pontos/salvar_como_imagem.png) `Exportar para CSV` ;
+* _Para salvar como imagem é só clicar no ícone_ ![SalvarComoImagem](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/separacao_tela/tela_relatorio_de_pontos/salvar_como_imagem.png) `Salvar como imagem` ;
 * _O arquivo aparecerá na parte inferior do navegador, assim_ ![BaixandoImagem](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/separacao_tela/tela_relatorio_de_pontos/teste.gif) ;
 * _O arquivo irá para pasta de_ ![IconDownloads](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/separacao_tela/tela_relatorio_de_pontos/IconDownload.png) `Downloads` _do seu computador_ ;
 * _Pode apertar as teclas_ ![BtnControl](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/separacao_tela/tela_relatorio_de_pontos/btnCtrl.png) ![SimboloDeMais](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/separacao_tela/tela_relatorio_de_pontos/%2B.png)![LetraJota](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/separacao_tela/tela_relatorio_de_pontos/letraJ2.png) _para abrir uma nova guia do navegador com todos os_ `Downloads` ;
