@@ -34,10 +34,16 @@
 
 >## __2.3 - Opção para ouvir as ligações manuais__
 * _Clicando no filtro, selecionamos_ ;
-* _No campo_ `Usuário`, marcamos o_ ![RoboTelefonia](tela_historico_de_contato/robo_telefonia) ;
-* _Depois selecionamos no campo_ `Status` _
+* _No campo_ `Usuário`, _marcamos o_ ![RoboTelefonia](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/separacao_tela/tela_historico_de_contato/robo_telefonia.png) ;
+* _Depois selecionamos no campo_ `Status` _o_ ![RoboTelefonia](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/separacao_tela/tela_historico_de_contato/liga%C3%A7%C3%A3o_manual.png) ;
+* _Só clicar no_ ![Lupa](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/img_padrao/filtro2.png) ;
+* _Aparecerá assim_ ⤵️
+* ➡️ `Robô Telefonia`, o número do `sip` e o `número ligado`, `data` e `hora`, `tempo` da ligação, o `status` e o botão de ![Play](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/separacao_tela/tela_historico_de_contato/play.png) ;
+  ![Demonstração]()
+  
+  ![VídeoMostrandoOfiltro]()
 
->## __2.3 - Filtros__
+>## __2.4 - Filtros__
 * _Podemos escolher se será por_ `Grupo` _ou_ `Usuário` ;
 * _Data_ `Min` _e_ `Máx` ;
 * _Por_ `Status` _que foi setado no momento da ligação_ ;
