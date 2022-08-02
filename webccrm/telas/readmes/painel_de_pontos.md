@@ -56,21 +56,27 @@
 *  * **_Cada um com sua respectiva cor, marcando o gráfico com linhas e pontos_** ;
    ___
 *  * ![Líquido_Até_o_Momento_2](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/separacao_tela/tela_painel_de_pontos/liq_ate_o_momento.png) **-** _representa o que foi vendido, o valor que aparece será o_ `Bruto` - `Desconto` ;
+    
     ![Líquido_Até_o_Momento_GIF](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/separacao_tela/tela_painel_de_pontos/liquido_at%C3%A9_o_momento.gif)
     ___
 * * ![Projeção_do_que_será_realizado_2](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/separacao_tela/tela_painel_de_pontos/projec_do_que_ser%C3%A1_realizado.png) **-** _representa_
-    ![Projeção_do_que_será_realizado_GIF](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/separacao_tela/tela_painel_de_pontos/proje%C3%A7%C3%A3o_do_que_ser%C3%A1_realizado.gif)
+  
+  ![Projeção_do_que_será_realizado_GIF](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/separacao_tela/tela_painel_de_pontos/proje%C3%A7%C3%A3o_do_que_ser%C3%A1_realizado.gif)
     ___
 * * ![Meta_2](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/separacao_tela/tela_painel_de_pontos/meta.png) **-** _Representa a meta estipulada na criação da mesma, como essa foi criada uma meta mensal, ela aparece só no `Valores acmulados durante o mês` ._
+    
     ![Meta_GIF](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/separacao_tela/tela_painel_de_pontos/meta.gif)
     ___
 * * ![Projeção_para_atingir_a_meta_2](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/separacao_tela/tela_painel_de_pontos/projec_para_atingir_meta.png) **-** _Representa_
+    
     ![Projeção_para_atingir_a_meta_GIF](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/separacao_tela/tela_painel_de_pontos/proje%C3%A7%C3%A3o_para_atingir_a_meta.gif)
     ___
 * * ![Bruto_realizado_até_o_momento_2](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/separacao_tela/tela_painel_de_pontos/bruto_realz_ate_o_momento.png) **-** _Representa todo valor bruto, bruto esse estipulado na criação da configuração, quais status serão considerados como_ `Bruto` _no cálculo._
+    
     ![Bruto_realizado_até_o_momento_GIF](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/separacao_tela/tela_painel_de_pontos/bruto_realizado_at%C3%A9_o_momento.gif)
     ___
 * * ![Desconto_até_o_momento_2](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/separacao_tela/tela_painel_de_pontos/descontos_ate_o_momento.png) **-** _Representa o valor que está sendo descontado, valores esse estipulado na criação da configuração por meio de um multiplicador._
+    
     ![Desconto_até_o_momento_GIF](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/separacao_tela/tela_painel_de_pontos/desconto_at%C3%A9_o_momento.gif)
 
 ---
@@ -82,3 +88,16 @@
 * _Clicando com o `Scroll` do mouse no link_ ;
 
 ---
+
+---
+
+ [![Facebook](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/img_padrao/facebookescrito.png)](https://www.facebook.com/MakeSystem/)
+ [![WhatsApp](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/img_padrao/whatsapp.png)](https://api.whatsapp.com/send?phone=555130661344)
+ ![Divisor](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/img_padrao/divisor.png)
+ [![Linkedin](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/img_padrao/linkedin.png)](https://www.linkedin.com/company/makesystem/)
+ ![Divisor](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/img_padrao/divisor.png)
+ [![YouTube](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/img_padrao/ytbee.png)](https://youtu.be/s5NwR0o5e7o)
+ ![Divisor](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/img_padrao/divisor.png)
+ [![Instagram](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/img_padrao/instagram.png)](https://www.instagram.com/makesystem_sistemas/)
+
+ ---
