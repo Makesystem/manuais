@@ -1,7 +1,7 @@
 # USUÁRIOS
 
 ---
-[![Logo_make](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/img_padrao/make.png)](https://www.makesystem.com.br/)
+[![Logo_make](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/img_padrao/makesystem.png)](https://www.makesystem.com.br/)
 
 ---
 
