@@ -11,7 +11,7 @@
 * _Clicamos no_ ![menu()](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/img_padrao/menu.png) `Menu` ;
 * _Depois clicamos em_  ![Serviços](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/img_padrao/servicos.png) `Serviços` -> ![Analise_de_crédito](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/img_padrao/analise_de_cr%C3%A9dito.png) `Análise de Créditos` ;
 
-![](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/separacao_tela/tela_analise_de_cr%C3%A9dito/caminho.gif)
+![Caminho](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/separacao_tela/tela_analise_de_cr%C3%A9dito/caminho.gif)
 
 # 2 - Criando
 >## __2.1 - Cadastrando uma regra__
