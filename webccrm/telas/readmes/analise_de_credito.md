@@ -2,20 +2,20 @@
 
 ---
 
-[![Logo_Make](imgpadrao/make.png)](https://www.makesystem.com.br/)
+[![Logo_Make](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/img_padrao/logotipomakesystem.png)](https://www.makesystem.com.br/)
 
 ---
 
 # 1 - Chegando na tela Análise de crédito
 >## __1.1 - Caminho__
-* _Clicamos no_ ![menu()](imgpadrao/menu.png) `Menu` ;
-* _Depois clicamos em_  ![Serviços](imgpadrao/servicos.png) `Serviços` -> ![Analise_de_crédito](imgpadrao/analise_de_cr%C3%A9dito.png) `Análise de Créditos` ;
+* _Clicamos no_ ![menu()](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/img_padrao/menu.png) `Menu` ;
+* _Depois clicamos em_  ![Serviços](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/img_padrao/servicos.png) `Serviços` -> ![Analise_de_crédito](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/img_padrao/analise_de_cr%C3%A9dito.png) `Análise de Créditos` ;
 
-![](tela_analise_de_cr%C3%A9dito/caminho.gif)
+![](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/separacao_tela/tela_analise_de_cr%C3%A9dito/caminho.gif)
 
 # 2 - Criando
 >## __2.1 - Cadastrando uma regra__
-* _Clica no ícone de_ ![Mais](imgpadrao/add.png) ;
+* _Clica no ícone de_ ![Mais](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/img_padrao/add.png) ;
 * _Para adicionar uma regra nova_ ;
 
 >## __2.2 - Nova regra de análise financeira__
@@ -25,7 +25,7 @@
 *   __Bairro__ ➡️ _Pode ser colocar quantos bairros quiser, separando-os por <span style="color:red">**" , "** </span>**( vírgula )** Ex: Campo Grande, Centro, Morro do Espelho_ ;
 * __Canais__ ➡️ _Depende dos canais que estão configurados dentro do sistema, pode ser marcados quantos quiser também_ ;
 
-![Regra_Análise](./tela_analise_de_crédito/Parte%20Regra.gif)
+![Regra_Análise](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/separacao_tela/tela_analise_de_cr%C3%A9dito/Parte%20Regra.gif)
 
 >## __A Regra valida uma dessas sequências__
 * __Cidade, Bairro e Canal__
@@ -40,7 +40,7 @@
 ---
 
 >## __2.3 - Cadastro Serasa__
-![Mensagem_serasa](/tela_analise_de_cr%C3%A9dito/Mensagem%20Serasa.png)
+![Mensagem_serasa](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/separacao_tela/tela_analise_de_cr%C3%A9dito/Regraa%20Serasa.gif)
 * _Na segunda caixa temos os dados que teremos quando efetuarmos a contratação do serviço Verify-Id_
 * __clientId__
 * __username__
@@ -60,7 +60,7 @@ _Preenchendo esses três primeiros abre os campos de:_
 # 3 - Visualizar os dados
 >## __3.1 - Onde configurar__
 * _Clicando em_ ⚙️Configurações -> ⚙️Sistema _e vá até_
-![Visualizar_os_dados](/tela_analise_de_crédito/Visualisar%20dados.png)
+![Visualizar_os_dados](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/separacao_tela/tela_analise_de_cr%C3%A9dito/Visualisar%20dados.png)
 * _Os contextos selecionados veem os dados da_ **`análise de crédito`** _e_ **`validações cadastrais`** ⤵️
 ![Visão_Auditoria](/tela_analise_de_crédito/visão%20auditoria.gif)
 * _Os contextos não selecionados veem assim_ ⤵️
