@@ -62,8 +62,10 @@ _Preenchendo esses três primeiros abre os campos de:_
 * _Clicando em_ ⚙️Configurações -> ⚙️Sistema _e vá até_
 ![Visualizar_os_dados](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/separacao_tela/tela_analise_de_cr%C3%A9dito/Visualisar%20dados.png)
 * _Os contextos selecionados veem os dados da_ **`análise de crédito`** _e_ **`validações cadastrais`** ⤵️
+
 ![Visão_Auditoria](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/separacao_tela/tela_analise_de_cr%C3%A9dito/vis%C3%A3o%20auditoria.gif)
 * _Os contextos não selecionados veem assim_ ⤵️
+
 ![Visão_venda](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/separacao_tela/tela_analise_de_cr%C3%A9dito/visao%20venda.gif)
 <br />
 
