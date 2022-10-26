@@ -9,7 +9,7 @@
 * _Clicamos no_ ![menu](imgpadrao/menu.png) `Menu` ; 
 * _Depois clicamos em_  🛒 `Vendas` -> 📞 `Minhas Vendas` ;
   
-![Caminho](tela_venda/caminho.gif)
+![Caminho](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/separacao_tela/tela_venda/caminho.gif)
 
 <br />
 
@@ -17,7 +17,7 @@
 >## __2.1 - Formato de Ligação Preditiva__
 * _Quando tiver o módulo de ligação Preditiva a tela aparecerá assim_ ⤵️
 
-![Tela_Preditiva_com_Sip](tela_venda/tela_preditiva_com_sip.gif)
+![Tela_Preditiva_com_Sip](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/separacao_tela/tela_venda/tela_preditiva_com_sip.gif)
 * ➡️ _Tem que ter o microsip intalado e configurado ;_
 * ➡️ _As configurações do microsip são feitas pela Equipe do suporte ;_
 * ➡️ <span style="font-size:25px">N</span><span style="color:red">_otem que o número do microsip está igual ao número na tela do makesystem, se estiverem diferentes, pode causar falha ao tentar ligar ;_</span>
@@ -27,10 +27,10 @@
 >## __2.2 - Formato de Ligação Automatica__
 * _Quando tiver o módulo de ligação Automatica a tela aparecerá assim_ ⤵️
 
-![Tela_Venda_Automatica](tela_venda/tela_venda_automatica.png)
+![Tela_Venda_Automatica](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/separacao_tela/tela_venda/tela_venda_automatica.png)
 * ➡️ _Notem que a tela é muito semelhante a de_ `Ligação Preditiva` _porém, não tem um microsip configurado, o sistema envia um telefone vindo da_ [**FILA**](https://www.youtube.com/watch?v=s5NwR0o5e7o&list=PLJ38ZyqJdte3Ipwnf5V5a615O4ndEE0p_&index=3), _assim que encontrar abrirá essa tela_ ⤵️
 
-![ligacao_localizada_venda_automatica](tela_venda/ligacao_localizada_venda_automatica.png)
+![ligacao_localizada_venda_automatica](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/separacao_tela/tela_venda/ligacao_localizada_venda_automatica.png)
 * * ➡️ _Aqui é a_ `tela de discagem` _ai o consultor pega o telefone que está aparecendo ali, e disca manualmente ;_
 
 <br />
@@ -38,18 +38,18 @@
 >## __2.3 - Formato de Indicação__
 * _Em todas os módulos tem essa opção_ ⤵️
 
-![Tela_Indicacao](tela_venda/tela_indicacao.gif)
+![Tela_Indicacao](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/separacao_tela/tela_venda/tela_venda_indica%C3%A7%C3%A3o.png)
 * _Quando clicar algum destes vai abrir uma proposta vazia_ ⤵️
-![Nova_Proposta](tela_venda/nova_proposta.png)
+![Nova_Proposta](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/separacao_tela/tela_venda/nova_proposta.png)
 * _Temos uma opção chamada_ **`Pesquisa na indicação`**, _deixando esta opção habilitada para permitir uma indicação o usuário terá que realizar uma pesquisa por clientes e leads da base antes de realizar a indicação ;_
 * * _Para ativar é só ir em_ ⚙️`Configurações` _->_ ⚙️`Sistema` _e habilitar esta opção_ ⤵️
-  ![Pesquisa_Indicacao](tela_venda/pesquisa_indicacao.png)
+  ![Pesquisa_Indicacao](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/separacao_tela/tela_venda/pesquisa_indicacao.png)
 
 <br />
 
 # 3 - Tela Minhas Vendas
 >## __Funções da tela__
-![](tela_venda/botoes_da_tela.png)
+![tela_botoes](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/separacao_tela/tela_venda/botoes_da_tela.png)
 
 > __1__ - Barra de pesquisa - Pode-se pesquisar vendas por: ⤵️
 * ➡️ _Identificador da venda._ Ex -> `WEB37u1663851833` | `MOB3u1662723757`
@@ -66,13 +66,13 @@
 
 > __5__ - Tipos de visualizadores da vendas - Pode-se visualizar assim: ⤵️
 * ➡️ _Visualizar em modo de valores_ ⤵️
-  ![Modo_de_Valores](tela_venda/modo_de_valores.png)
+  ![Modo_de_Valores](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/separacao_tela/tela_venda/modo_de_valores.png)
 
 * ➡️ _Visualizar em modo de card_ ⤵️
-  ![Modo_Card](tela_venda/modo_card.png)
+  ![Modo_Card](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/separacao_tela/tela_venda/modo_card.png)
 
 * ➡️ _Visualizar em modo de lista_ ⤵️
-  ![](tela_venda/modo_lista.png)
+  ![modo_de_lista](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/separacao_tela/tela_venda/modo_lista.png)
 
 <br />
 
