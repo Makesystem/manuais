@@ -1,12 +1,12 @@
 # VENDA
 
-[![Logo](/imgpadrao/makesystem_blue.png)](https://www.makesystem.com.br/)
+[![Logo](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/img_padrao/makesystem.png)](https://www.makesystem.com.br/)
 
 ---
 
 # 1 - Chegando na tela Minhas Vendas
 >## __1.1 - Caminho__
-* _Clicamos no_ ![menu](imgpadrao/menu.png) `Menu` ; 
+* _Clicamos no_ ![menu](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/img_padrao/menu.png) `Menu` ; 
 * _Depois clicamos em_  🛒 `Vendas` -> 📞 `Minhas Vendas` ;
   
 ![Caminho](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/separacao_tela/tela_venda/caminho.gif)
@@ -30,7 +30,7 @@
 ![Tela_Venda_Automatica](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/separacao_tela/tela_venda/tela_venda_automatica.png)
 * ➡️ _Notem que a tela é muito semelhante a de_ `Ligação Preditiva` _porém, não tem um microsip configurado, o sistema envia um telefone vindo da_ [**FILA**](https://www.youtube.com/watch?v=s5NwR0o5e7o&list=PLJ38ZyqJdte3Ipwnf5V5a615O4ndEE0p_&index=3), _assim que encontrar abrirá essa tela_ ⤵️
 
-![ligacao_localizada_venda_automatica](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/separacao_tela/tela_venda/ligacao_localizada_venda_automatica.png)
+  ![ligacao_localizada_venda_automatica](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/separacao_tela/tela_venda/ligacao_localizada_venda_automatica.png)
 * * ➡️ _Aqui é a_ `tela de discagem` _ai o consultor pega o telefone que está aparecendo ali, e disca manualmente ;_
 
 <br />
@@ -60,18 +60,22 @@
 > __2__ - Botão de play - Se deixar ele acionado, a cada 10 segundos se tiver uma venda nova, aparecerá na tela.
 
 > __3__ - Modo avançado - vai trazer todas as vendas que estão com outros status, se estiver com a opção <span style="color:black;font-family:cursive;text-decoration: underline;">Ver usuários do mesmo nível (Grupo)</span> marcada, vai aplicar hierarquia virá as vendas dos usuários que estiverem dentro do grupo que está autalmente.
-* ➡️ _Também ativa o botão de filtro_ ![filtro](imgpadrao/filtro.png) _no canto superior esquerdo_
+* ➡️ _Também ativa o botão de filtro_ ![filtro](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/img_padrao/filtro.png) _no canto superior esquerdo_
 
 > __4__ - Exibir mais informações - Deixar ativo aparece os produtos da venda.
 
 > __5__ - Tipos de visualizadores da vendas - Pode-se visualizar assim: ⤵️
+
 * ➡️ _Visualizar em modo de valores_ ⤵️
+
   ![Modo_de_Valores](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/separacao_tela/tela_venda/modo_de_valores.png)
 
 * ➡️ _Visualizar em modo de card_ ⤵️
+
   ![Modo_Card](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/separacao_tela/tela_venda/modo_card.png)
 
 * ➡️ _Visualizar em modo de lista_ ⤵️
+
   ![modo_de_lista](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/separacao_tela/tela_venda/modo_lista.png)
 
 <br />
