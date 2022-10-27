@@ -8,14 +8,14 @@
 
 # 1 - Chegando na tela Análise de crédito
 >## __1.1 - Caminho__
-* _Clicamos no_ ![menu()](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/img_padrao/menu.png) `Menu` ;
-* _Depois clicamos em_  ![Serviços](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/img_padrao/servicos.png) `Serviços` -> ![Analise_de_crédito](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/img_padrao/analise_de_cr%C3%A9dito.png) `Análise de Créditos` ;
+* _Clicamos no_ ![menu()](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/img_padrao/menu1.png) `Menu` ;
+* _Depois clicamos em_  ![Serviços](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/img_padrao/servicos_1.png) `Serviços` -> ![Analise_de_crédito](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/img_padrao/analise_de_cr%C3%A9dito_1.png) `Análise de Créditos` ;
 
 ![Caminho](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/separacao_tela/tela_analise_de_cr%C3%A9dito/caminho.gif)
 
 # 2 - Criando
 >## __2.1 - Cadastrando uma regra__
-* _Clica no ícone de_ ![Mais](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/img_padrao/add.png) ;
+* _Clica no ícone de_ ![Mais](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/img_padrao/add_1.png) ;
 * _Para adicionar uma regra nova_ ;
 
 >## __2.2 - Nova regra de análise financeira__
