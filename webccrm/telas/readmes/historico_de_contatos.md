@@ -8,8 +8,8 @@
 
 # 1 - Chegando na tela Histórico de Contatos
 >## __1.1 - Caminho__
-* _Clicamos no_ ![menu](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/img_padrao/menu.png) `Menu` ;
-* _Depois clicamos em_  ![Relatórios](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/img_padrao/relat%C3%B3rios.png) `Relatórios` -> ![Histórico_de_Contatos](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/img_padrao/HistoricoDeContatos.png) `Histórico de Contatos` ;
+* _Clicamos no_ ![menu](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/img_padrao/menu1.png) `Menu` ;
+* _Depois clicamos em_  ![Relatórios](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/img_padrao/relat%C3%B3rios_1.png) `Relatórios` -> ![Histórico_de_Contatos](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/img_padrao/historico_de_contatos_1.png) `Histórico de Contatos` ;
   
   ![Caminho](https://github.com/Makesystem/manuais/raw/main/webccrm/telas/separacao_tela/tela_historico_de_contato/caminho.gif)
 
@@ -58,11 +58,11 @@
 
 # 3 - Opções de Salvamento dos dados
 >## __3.1 - Exportar para CSV__
-*  _Para exportar em um arquivo_ `.zip`, _é só clicar no ícone_ ![Baixar](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/img_padrao/baixar.png) `Exportar`
+*  _Para exportar em um arquivo_ `.zip`, _é só clicar no ícone_ ![Baixar](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/img_padrao/baixar_1.png) `Exportar`
 *  _Aparecerá uma mensagem_ ⤵️
 *  ![Exportando...](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/separacao_tela/tela_historico_de_contato/exportando.png)
 *  _Só clicar em fechar_ ;
-*  _Quando terminar de exportar o arquivo, terá uma notificação no ícone_ ![Sino](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/img_padrao/sino.png) `Notificações` ;
+*  _Quando terminar de exportar o arquivo, terá uma notificação no ícone_ 🔔 `Notificações` ;
 *  _Clicando no ícone abrirá todas as notificações, a que queremos estará assim_ ⤵️
 *  ![Notificação](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/separacao_tela/tela_historico_de_contato/notifica%C3%A7%C3%A3o.png)
 *  _Só clicar em_ ![Download](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/separacao_tela/tela_historico_de_contato/download.png) ;
@@ -73,13 +73,5 @@
   ![TelaMostrandoDownload](https://github.com/Makesystem/manuais/raw/main/webccrm/telas/separacao_tela/tela_historico_de_contato/mostrando_download_na_tela.gif)
 
   <br />
-
----
-
-# Ficou com alguma dúvida? entre em contato com o [Suporte](http://api.whatsapp.com/send?1=pt_BR&phone=555130661344).
-
-### Todos os links que temos aqui podem ser abertos de duas maneiras:
-* _Clicando com o botão direito do mouse -> `Abrir link em uma nova guia`_ ;
-* _Clicando com o `Scroll` do mouse no link_ ;
 
 ---
