@@ -1,4 +1,4 @@
-# VENDA
+# MINHAS VENDAS
 
 [![Logo](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/img_padrao/makesystem.png)](https://www.makesystem.com.br/)
 
