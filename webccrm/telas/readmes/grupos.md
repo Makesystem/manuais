@@ -6,11 +6,11 @@
 
  # 1 - Chegando na tela Grupos
  >## __1.1 - Caminho__
- * _Clicamos no_ ![Menu](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/img_padrao/menu.png) ;
- * _Depois clicamos em_ `Usuários` ![Usuários](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/img_padrao/usuarios.png) -> ![Grupos](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/img_padrao/grupo.png) `Grupos` ;
+ * _Clicamos no_ ![Menu](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/img_padrao/menu1.png) ;
+ * _Depois clicamos em_ ![Usuários](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/img_padrao/usuarios_1.png) `Usuários` -> ![Grupos](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/img_padrao/grupo_1.png) `Grupos` ;
 
 ![Caminho Grupo](https://github.com/Makesystem/manuais/raw/main/webccrm/telas/separacao_tela/tela_grupos/caminho.gif)
-##### 1.1.1 - ![Warning](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/img_padrao/waarning.png) Para ter acesso as telas de ![Usuários](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/img_padrao/usuarios.png) `Usuários`, o perfil terá que ter permissão.
+##### 1.1.1 - ![Warning](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/img_padrao/waarning.png) Para ter acesso as telas de ![Usuários](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/img_padrao/usuarios_1.png) `Usuários`, o perfil terá que ter permissão.
 
 <br />
 
@@ -61,15 +61,6 @@
 ### Todos os links que temos aqui podem ser abertos de duas maneiras:
 * _Clicando com o botão direito do mouse ->_ __`Abrir link em uma nova guia`__ ;
 * _Clicando com o_ __`Scroll`__ _do mouse no link_ ;
-
- [![Facebook](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/img_padrao/facebookescrito.png)](https://www.facebook.com/MakeSystem/)
- [![WhatsApp](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/img_padrao/whatsapp.png)](https://api.whatsapp.com/send?phone=555130661344)
- ![](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/img_padrao/divisor.png)
- [![Linkedin](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/img_padrao/linkedin.png)](https://www.linkedin.com/company/makesystem/)
- ![](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/img_padrao/divisor.png)
- [![YouTube](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/img_padrao/ytbee.png)](https://youtu.be/mZ81nXlImfc?t=38)
- ![](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/img_padrao/divisor.png)
- [![Instagram](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/img_padrao/instagram.png)](https://www.instagram.com/makesystem_sistemas/)
 
 ---
 
