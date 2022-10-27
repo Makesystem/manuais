@@ -8,8 +8,8 @@
 
 # 1 - Chegando na tela Painel de Pontos
 >## __1.1 - Caminho__
-* _Clicamos no_ ![menu](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/img_padrao/menu.png) `Menu` ;
-* _Depois clicamos em_  ![Relatórios](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/img_padrao/relat%C3%B3rios.png) `Relatórios` -> ![Painel_De_Pontos](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/img_padrao/PainelDePontos.png) `Painel de Pontos` ;
+* _Clicamos no_ ![menu](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/img_padrao/menu1.png) `Menu` ;
+* _Depois clicamos em_  ![Relatórios](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/img_padrao/relatórios_1.png) `Relatórios` -> ![Painel_De_Pontos](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/img_padrao/PainelDePontos.png) `Painel de Pontos` ;
   
 ![Caminho](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/separacao_tela/tela_painel_de_pontos/caminho.gif)
 
@@ -88,16 +88,3 @@
 * _Clicando com o `Scroll` do mouse no link_ ;
 
 ---
-
----
-
- [![Facebook](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/img_padrao/facebookescrito.png)](https://www.facebook.com/MakeSystem/)
- [![WhatsApp](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/img_padrao/whatsapp.png)](https://api.whatsapp.com/send?phone=555130661344)
- ![Divisor](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/img_padrao/divisor.png)
- [![Linkedin](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/img_padrao/linkedin.png)](https://www.linkedin.com/company/makesystem/)
- ![Divisor](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/img_padrao/divisor.png)
- [![YouTube](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/img_padrao/ytbee.png)](https://youtu.be/s5NwR0o5e7o)
- ![Divisor](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/img_padrao/divisor.png)
- [![Instagram](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/img_padrao/instagram.png)](https://www.instagram.com/makesystem_sistemas/)
-
- ---
