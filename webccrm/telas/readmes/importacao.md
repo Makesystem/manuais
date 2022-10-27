@@ -80,7 +80,7 @@ _O arquivo terá o mesmo nome que você importou acrescentado a terminação INV
 
 >## **2.7 - Notificações do fim do Processo de importação** 
 
-_Clicando no_ ![](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/img_padrao/sino.png) _abrirá as notificações e poderá ver o que aconteceu com o arquivo que colocou para importar._
+_Clicando no_ 🔔 _abrirá as notificações e poderá ver o que aconteceu com o arquivo que colocou para importar._
 
 ![Notificação](https://github.com/Makesystem/manuais/raw/main/webccrm/telas/separacao_tela/tela_importacao_mailing/notificacao.gif)
 
@@ -90,7 +90,7 @@ _Clicando no_ ![](https://raw.githubusercontent.com/Makesystem/manuais/main/webc
 
 **3.1 - Caminho para vizualizar o mailing**
 
- _Clicando no canto superior esquerdo no_ ![Icon Menu](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/img_padrao/menu.png) _abrirá os menus, clicando em_ ![](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/img_padrao/mailing2.png) _*Mailings*_ _depois novamente em_ ![Icon Mailing](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/separacao_tela/tela_importacao_mailing/mailing.png) *Mailings*. _Veremos o arquivo importado._
+ _Clicando no canto superior esquerdo no_ ![Icon Menu](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/img_padrao/menu1.png) _abrirá os menus, clicando em_ ![](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/img_padrao/mailing2.png) _*Mailings*_ _depois novamente em_ ![Icon Mailing](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/separacao_tela/tela_importacao_mailing/mailing.png) *Mailings*. _Veremos o arquivo importado._
  
 ![Impotação do Mailing Pronto](https://github.com/Makesystem/manuais/raw/main/webccrm/telas/separacao_tela/tela_importacao_mailing/mailings.gif)
 
@@ -102,13 +102,4 @@ _Clicando no_ ![](https://raw.githubusercontent.com/Makesystem/manuais/main/webc
 * _Clicando com o botão direito do mouse ->_ __`Abrir link em uma nova guia`__ ;
 * _Clicando com o_ __`Scroll`__ _do mouse no link_ ;
 
- [![Facebook](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/img_padrao/facebookescrito.png)](https://www.facebook.com/MakeSystem/)
- [![Whatsapp](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/img_padrao/whatsapp.png)](https://api.whatsapp.com/send?phone=555130661344)
- ![divisor](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/img_padrao/divisor.png)
- [![Linkedin](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/img_padrao/linkedin.png)](https://www.linkedin.com/company/makesystem/)
- ![divisor](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/img_padrao/divisor.png)
- [![Youtube](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/img_padrao/ytbee.png)](https://youtu.be/5z0kGzGp7zo?t=12)
- ![divisor](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/img_padrao/divisor.png)
- [![Instagram](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/img_padrao/instagram.png)](https://www.instagram.com/makesystem_sistemas/)
- 
 ---
