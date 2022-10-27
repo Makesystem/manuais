@@ -6,7 +6,7 @@
 
 # 1 - Chegando na tela Minhas Vendas
 >## __1.1 - Caminho__
-* _Clicamos no_ ![menu](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/img_padrao/menu.png) `Menu` ; 
+* _Clicamos no_ ![menu](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/img_padrao/menu1.png) `Menu` ; 
 * _Depois clicamos em_  🛒 `Vendas` -> 📞 `Minhas Vendas` ;
   
 ![Caminho](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/separacao_tela/tela_venda/caminho.gif)
@@ -60,7 +60,7 @@
 > __2__ - Botão de play - Se deixar ele acionado, a cada 10 segundos se tiver uma venda nova, aparecerá na tela.
 
 > __3__ - Modo avançado - vai trazer todas as vendas que estão com outros status, se estiver com a opção <span style="color:black;font-family:cursive;text-decoration: underline;">Ver usuários do mesmo nível (Grupo)</span> marcada, vai aplicar hierarquia virá as vendas dos usuários que estiverem dentro do grupo que está autalmente.
-* ➡️ _Também ativa o botão de filtro_ ![filtro](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/img_padrao/filtro.png) _no canto superior esquerdo_
+* ➡️ _Também ativa o botão de filtro_ ![filtro](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/img_padrao/filtro_1.png) _no canto superior esquerdo_
 
 > __4__ - Exibir mais informações - Deixar ativo aparece os produtos da venda.
 
