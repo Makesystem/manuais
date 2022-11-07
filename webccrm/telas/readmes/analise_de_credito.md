@@ -28,16 +28,6 @@
 
 ![Regra_Análise](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/separacao_tela/tela_analise_de_cr%C3%A9dito/regra_analise.gif)
 
->## __A Regra valida uma dessas sequências__
-* __Cidade, Bairro e Canal__
-* __Cidade e Bairro__
-* __Cidade e Canal__
-* __Cidade__
-* __Canal__
-* __Nenhum__
-
-<span style="color:black;background-color:rgba(144,202,249,1);padding:16px">Se for criada uma regra preenchendo os 3 campos, a regra valida os 3 campos, o mesmo vale para as outras opções.</span>
-
 ---
 
 >## __A Regra valida uma dessas sequências__
