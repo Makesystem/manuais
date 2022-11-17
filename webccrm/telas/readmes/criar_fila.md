@@ -59,6 +59,7 @@
 >## 2.4 - Venda
 ### ➡️ 2.4.1 - Estado da Venda
 * _Podemos selecionar para criar uma fila o estado que da venda ;_ ⤵️
+
 ![filtro_venda_estado](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/separacao_tela/tela_criar_fila/filtro_venda_venda.png)
 
 <br />
