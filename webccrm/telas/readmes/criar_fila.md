@@ -37,7 +37,7 @@
 ### ➡️ 2.3.1 - BlackList
 * ![filtro_blackList](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/separacao_tela/tela_criar_fila/filtro_lead_blacklist.png)
 * * _Quando se cria uma fila só pode ser com contatos fora da BlackList ;_
-* * _Tem como trazer os números que já foram adicionados na agenda de algum consultor, ai é só desparcar essa opção_ ![filtro_sem_agenda](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/separacao_tela/tela_criar_fila/filtro_lead_semAgenda.png)
+* * _Tem como trazer os números que já foram adicionados na agenda de algum consultor, ai é só desmarcar essa opção_ ![filtro_sem_agenda](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/separacao_tela/tela_criar_fila/filtro_lead_semAgenda.png)
 
 <br/>
 
