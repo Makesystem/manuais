@@ -48,7 +48,7 @@
 
 >## __2.4 - Filtros__
 * _Podemos escolher se será por_ `Grupo` _ou_ `Usuário` ;
-* _Data_ `Min` _e_ `Máx` ;
+* _Data_ `Min` _e_ `Máx` _( A data é de no máximo 30 dias )_ ;
 * _Por_ `Status` _que foi setado no momento da ligação_ ;
 * _Por Filas ( Inclusive as excluidas )_ ;
   
