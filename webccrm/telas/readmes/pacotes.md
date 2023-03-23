@@ -1,0 +1,65 @@
+# VENDA
+
+[![Logo](/imgpadrao/makesystem_blue.png)](https://www.makesystem.com.br/)
+
+---
+
+# 1 - Chegando na tela Minhas Vendas
+>### __1.1 - Caminho__
+* _Clicamos no_ ![menu](tela_pacotes/menu-custom.png) `Menu` ; 
+* _Depois clicamos em_ ![produtos](tela_pacotes/shopping-music-custom.png)  `Produtos` ➡️ ![Pacotes](tela_pacotes/produtos.png) `Pacotes` ;
+  
+![Caminho](tela_pacotes/caminho.gif)
+
+# 2 - Criação
+>### __2.1 - Criando um novo Pacote__
+* _Clicamos no botão_ ![Btn_add](tela_pacotes/plus-circle-custom%20(1).png) ;
+* _Colocamos um nome_ ;
+* _A opção de Ativo do pacote_ ![Btn_ativo_inativo](tela_pacotes/ativo.png) ;
+* _Marcar os produtos que farão parte deste pacote_ ;
+
+>### __2.2 - Limitar o pacote__
+* _Temos as respectivas opções:_
+* * _Cidade_;
+* * _Bairro_ ;
+* * _Canais_ 🔽 _Com todos os canais_
+
+><span style="color:#90caf9;">Sendo assim o pacote criado só estará disponível se atender todas as regras, lembrando que se informar um nome de bairro que possivelmente tenha em ambas as cidades acontecerá o seguinte exemplo, foi inserido a cidade de <u style="color:black;">São Paulo</u> e <u style="color:black;">Porto Alegre</u>, no bairro for inserido o centro, a regra aplicará para ambos os centros.</span>
+
+><span style="color:#90caf9;">Não importa o formato que coloque o sistema retira acentuação das Cidades e Bairros inseridos, se inserir São Paulo ou sao paulo.. ambos o sistema encontrará. </span>
+
+![Criação_pacote](tela_pacotes/Criando%20pacote.gif)
+
+<br />
+
+# 3 - Filtro
+>### __3.1 - Filtrando os pacotes__
+* _Temos as respectivas ordenações:_
+* * _Nome_ ;
+* * _Pontos_ ;
+* * _Pontos Bônus_ ;
+* * _Valor (R$)_ ;
+
+>### __3.2 - Status dos pacotes__
+* * _Ativos_ ;
+* * _Inativos_ ;
+* * _Ambos_ ;
+
+![Filtro](tela_pacotes/filtro.gif)
+
+<br>
+
+# 4 - Visualização da tela
+>### __3.1 - Tipos de visualização__
+##### 3.1.1 - Temos a visualização modo de lista ⤵️
+![btn_visualização_modo_lista](tela_pacotes/visualizar%20em%20modo%20lista-.png)
+
+<br>
+
+##### 3.1.2 - Temos a visualização modo de valor ⤵️
+* * _Podendo ser filtrado por:_
+* * ➡️ _Valor_ ;
+* * ➡️ _Pontos_ ;
+* * ➡️ _Pontos Bônus_ ;
+
+![btl_visualização_modo_valor](tela_pacotes/visualizar%20em%20modo%20valore-.png)
