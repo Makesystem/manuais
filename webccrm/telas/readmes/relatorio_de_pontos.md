@@ -8,7 +8,7 @@
 
 # 1 - Chegando na tela Relatório de Pontos
 >## __1.1 - Caminho__
-* _Clicamos no_ ![Menu](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/img_padrao/menu1.png) `Menu` ;
+* _Clicamos no_ ![Menu](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/img_padrao/menu_1.png) `Menu` ;
 * _Depois clicamos em_  ![Relatórios](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/img_padrao/relatórios_1.png) `Relatórios` -> ![RelatórioDePontos](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/img_padrao/RelatoriodePontos.png) `Painel de Pontos` ;
   
 ![Caminho_Relatório_de_Pontos](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/separacao_tela/tela_relatorio_de_pontos/caminho.gif)
