@@ -1,19 +1,19 @@
 # VENDA
 
-[![Logo](/imgpadrao/makesystem_blue.png)](https://www.makesystem.com.br/)
+[![Logo](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/img_padrao/makesystem.png)](https://www.makesystem.com.br/)
 
 ---
 
 # 1 - Chegando na tela Minhas Vendas
 >### __1.1 - Caminho__
-* _Clicamos no_ ![menu](tela_pacotes/menu-custom.png) `Menu` ; 
-* _Depois clicamos em_ ![produtos](tela_pacotes/shopping-music-custom.png)  `Produtos` ➡️ ![Pacotes](tela_pacotes/produtos.png) `Pacotes` ;
+* _Clicamos no_ ![menu](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/img_padrao/menu_1.png) `Menu` ; 
+* _Depois clicamos em_ ![produtos](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/img_padrao/produtos_main.png)  `Produtos` ➡️ ![Pacotes](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/img_padrao/produtos.png) `Pacotes` ;
   
-![Caminho](tela_pacotes/caminho.gif)
+![Caminho](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/separacao_tela/tela_pacotes/caminho.gif)
 
 # 2 - Criação
 >### __2.1 - Criando um novo Pacote__
-* _Clicamos no botão_ ![Btn_add](tela_pacotes/plus-circle-custom%20(1).png) ;
+* _Clicamos no botão_ ![Btn_add](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/img_padrao/add_1.png) ;
 * _Colocamos um nome_ ;
 * _A opção de Ativo do pacote_ ![Btn_ativo_inativo](tela_pacotes/ativo.png) ;
 * _Marcar os produtos que farão parte deste pacote_ ;
