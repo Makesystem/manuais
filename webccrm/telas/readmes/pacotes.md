@@ -15,7 +15,7 @@
 >### __2.1 - Criando um novo Pacote__
 * _Clicamos no botão_ ![Btn_add](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/img_padrao/add_1.png) ;
 * _Colocamos um nome_ ;
-* _A opção de Ativo do pacote_ ![Btn_ativo_inativo](tela_pacotes/ativo.png) ;
+* _A opção de Ativo do pacote_ ![Btn_ativo_inativo](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/img_padrao/ativo_2.png) ;
 * _Marcar os produtos que farão parte deste pacote_ ;
 
 >### __2.2 - Limitar o pacote__
@@ -28,7 +28,7 @@
 
 ><span style="color:#90caf9;">Não importa o formato que coloque o sistema retira acentuação das Cidades e Bairros inseridos, se inserir São Paulo ou sao paulo.. ambos o sistema encontrará. </span>
 
-![Criação_pacote](tela_pacotes/Criando%20pacote.gif)
+![Criação_pacote](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/separacao_tela/tela_pacotes/Criando%20pacote.gif)
 
 <br />
 
@@ -45,14 +45,14 @@
 * * _Inativos_ ;
 * * _Ambos_ ;
 
-![Filtro](tela_pacotes/filtro.gif)
+![Filtro](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/separacao_tela/tela_pacotes/filtro.gif)
 
 <br>
 
 # 4 - Visualização da tela
 >### __3.1 - Tipos de visualização__
 ##### 3.1.1 - Temos a visualização modo de lista ⤵️
-![btn_visualização_modo_lista](tela_pacotes/visualizar%20em%20modo%20lista-.png)
+![btn_visualização_modo_lista](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/separacao_tela/tela_pacotes/visualizar%20em%20modo%20lista-.png)
 
 <br>
 
@@ -62,4 +62,14 @@
 * * ➡️ _Pontos_ ;
 * * ➡️ _Pontos Bônus_ ;
 
-![btl_visualização_modo_valor](tela_pacotes/visualizar%20em%20modo%20valore-.png)
+![btl_visualização_modo_valor](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/separacao_tela/tela_pacotes/visualizar%20em%20modo%20valore-.png)
+
+---
+
+# Ficou com alguma dúvida? entre em contato com o [Suporte](http://api.whatsapp.com/send?1=pt_BR&phone=555130661344).
+
+### Todos os links que temos aqui podem ser abertos de duas maneiras:
+* _Clicando com o botão direito do mouse -> `Abrir link em uma nova guia`_ ;
+* _Clicando com o `Scroll` do mouse no link_ ;
+
+---
