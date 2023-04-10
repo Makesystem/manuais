@@ -6,8 +6,8 @@
 
  # 1 - Chegando na tela Grupos
  >## __1.1 - Caminho__
- * _Clicamos no_ ![Menu](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/img_padrao/menu1.png) ;
- * _Depois clicamos em_ ![Usuários](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/img_padrao/usuarios_1.png) `Usuários` -> ![Grupos](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/img_padrao/grupo_1.png) `Grupos` ;
+ * _Clicamos no_ ![Menu](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/icon_standard/16%20-%20Todas%20telas/menu.png) ;
+ * _Depois clicamos em_ ![Usuários](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/icon_standard/7%20-%20Usu%C3%A1rios/Usu%C3%A1rios.png) `Usuários` -> ![Grupos](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/icon_standard/7%20-%20Usu%C3%A1rios/Grupos.png) `Grupos` ;
 
 ![Caminho Grupo](https://github.com/Makesystem/manuais/raw/main/webccrm/telas/separacao_tela/tela_grupos/caminho.gif)
 ##### 1.1.1 - ![Warning](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/img_padrao/waarning.png) Para ter acesso as telas de ![Usuários](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/img_padrao/usuarios_1.png) `Usuários`, o perfil terá que ter permissão.
@@ -37,7 +37,7 @@
 >## __3.2 - Excluindo Grupos__
 * _Selecionamos o Grupo que será excluído_ ;
 * _Clicamos no ícone_ ![Lixeira](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/img_padrao/lixeira.png) ;
-* _Depois clicamos no ícone_ ![Recarregar](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/img_padrao/recarregar.png) _ou só aguardar_ ;
+* _Depois clicamos no ícone_ ![Recarregar](https://github.com/Makesystem/manuais/tree/main/webccrm/telas/icon_standard/16%20-%20Todas%20telas) _ou só aguardar_ ;
 > ![Excluíndo Grupo](https://github.com/Makesystem/manuais/raw/main/webccrm/telas/separacao_tela/tela_grupos/exclu%C3%ADndo.gif)
 >> ##### 3.2.1 - ![Warning](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/img_padrao/waarning.png) Para excluir um Grupo não pode ter nem sub-grupos nem usuários dentro do Grupo, o ícone de ![Lixeira](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/img_padrao/lixeira.png), nem aparecerá no Sub-menu como mostrado no exemplo à baixo.
 >> ![Não pode excluir](https://github.com/Makesystem/manuais/raw/main/webccrm/telas/separacao_tela/tela_grupos/naopodeexcluir.gif)
