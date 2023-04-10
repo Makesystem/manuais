@@ -8,8 +8,8 @@
 
 # 1 - Chegando na tela Canais
 >## __1.1 - Caminho__
-* _Clicamos no_ ![menu](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/img_padrao/menu1.png) ;
-* _Depois clicamos em_ ![Usuários](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/img_padrao/usuarios_1.png) `Usuários` -> ![Canais](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/img_padrao/canais_1.png) `Canais` ;
+* _Clicamos no_ ![menu](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/icon_standard/16%20-%20Todas%20telas/menu.png) `Menu` ;
+* _Depois clicamos em_ ![Usuários](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/icon_standard/7%20-%20Usu%C3%A1rios/Usu%C3%A1rios.png) `Usuários` -> ![Canais](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/icon_standard/7%20-%20Usu%C3%A1rios/Canais.png) `Canais` ;
   
 ![Caminho_Canais](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/separacao_tela/tela_canais/caminho.gif)
 
@@ -28,7 +28,7 @@
 # 3 - Edição
 >## __3.1 - Editando o Canal__
 * _É só escolher o Canal_ ;
-* _Clicar na_ ![Caneta](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/img_padrao/caneta.png) _para editar_ ;
+* _Clicar na_ ![Caneta](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/icon_standard/7%20-%20Usu%C3%A1rios/Usu%C3%A1rios/Editar.png) _para editar_ ;
 * _Feito a modificação, clica em_ ![Salvar](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/img_padrao/salvar.png) ;
 
 ![Editando](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/separacao_tela/tela_canais/editando.gif)
@@ -38,7 +38,7 @@
 # 4 - Excluindo
 >## __4.1 - Excluindo o Canal__
 * _É só escolher o Canal_ ;
-* _Clicar na_ ![Lixeira](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/img_padrao/lixeira.png) ;
+* _Clicar na_ ![Lixeira](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/icon_standard/7%20-%20Usu%C3%A1rios/Usu%C3%A1rios/Excluir.png) ;
 * _E o canal será excluído_ ;
 
 ![Excluíndo](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/separacao_tela/tela_canais/excluindo.gif)
@@ -49,7 +49,7 @@
 # 5 - Ativar/Inativar
 >## __5.1 - Ativando/Inativando o Canal__
 * _É só escolher o Canal_ ;
-* _Clicar no_ ![Click_p_Inativar](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/img_padrao/clicInativar_1.png) _para ativar ou clicar no_ ![Click_p_Ativar](https://github.com/Makesystem/manuais/blob/main/webccrm/telas/img_padrao/inativar_1.png) _para inativar_ ;
+* _Clicar no_ ![Click_p_Inativar](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/icon_standard/7%20-%20Usu%C3%A1rios/Usu%C3%A1rios/Ativo%20inativo.png) _para ativar ou clicar no_ ![Click_p_Ativar](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/icon_standard/7%20-%20Usu%C3%A1rios/Usu%C3%A1rios/Inativo.png) _para inativar_ ;
 
 ![Ativar_Inativar](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/separacao_tela/tela_canais/ativando_inativando.gif)
 
