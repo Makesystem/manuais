@@ -8,8 +8,8 @@
 
 # 1 - Chegando na tela Criar Fila
 >## __1.1 - Caminho__
-* _Clicamos no_ ![menu](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/img_padrao/menu1.png) `Menu` ;
-* _Depois clicamos em_  ![Mailings](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/img_padrao/mailing2.png) `Mailings` -> ![Criar_Fila](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/separacao_tela/tela_criar_fila/criar_fila.png) `Criar Fila` ;
+* _Clicamos no_ ![menu](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/icon_standard/16%20-%20Todas%20telas/menu.png) `Menu` ;
+* _Depois clicamos em_  ![Mailings](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/icon_standard/3%20-%20Mailings/Mailings%20(%20TODOS%20).png) `Mailings` -> ![Criar_Fila](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/icon_standard/3%20-%20Mailings/Criar%20Fila.png) `Criar Fila` ;
   
 ![Caminho](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/separacao_tela/tela_criar_fila/caminho.gif)
 
@@ -285,6 +285,9 @@
 * * _Clica nos campos para poder setar datas para busca dos registros ;_
   
 <br />
+
+# 3 - Aplicando os Filtros
+* Depois de ajustar todos dados é só clicar na ![Lupa](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/icon_standard/16%20-%20Todas%20telas/lupa.png) ;
 
 ---
 
