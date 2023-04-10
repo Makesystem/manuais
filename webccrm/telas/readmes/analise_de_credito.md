@@ -8,8 +8,8 @@
 
 # 1 - Chegando na tela Análise de crédito
 >## __1.1 - Caminho__
-* _Clicamos no_ ![menu()](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/img_padrao/menu1.png) `Menu` ;
-* _Depois clicamos em_  ![Serviços](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/img_padrao/servicos_1.png) `Serviços` -> ![Analise_de_crédito](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/img_padrao/analise_de_cr%C3%A9dito_1.png) `Análise de Créditos` ;
+* _Clicamos no_ ![menu](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/icon_standard/16%20-%20Todas%20telas/menu.png) `Menu` ;
+* _Depois clicamos em_  ![Serviços](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/icon_standard/5%20-%20Servi%C3%A7os/Servi%C3%A7os.png) `Serviços` -> ![Analise_de_crédito](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/icon_standard/5%20-%20Servi%C3%A7os/Analise%20financeira.png) `Análise de Créditos` ;
 
 ![Caminho](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/separacao_tela/tela_analise_de_cr%C3%A9dito/caminho.gif)
 ![](tela_analise_de_cr%C3%A9dito/caminho.gif)
@@ -104,7 +104,7 @@ _Preenchendo esses três primeiros abre os campos de:_
 
 # 3 - Visualizar os dados
 >## __3.1 - Onde configurar__
-* _Clicando em_ ⚙️Configurações -> ⚙️Sistema _e vá até_
+* _Clicando em_ ![Configuração](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/icon_standard/11%20-%20Configura%C3%A7%C3%B5es/Configura%C3%A7%C3%B5es.png) Configurações -> ![Configuração](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/icon_standard/11%20-%20Configura%C3%A7%C3%B5es/Configura%C3%A7%C3%B5es.png) Sistema _e vá até_
 ![Visualizar_os_dados](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/separacao_tela/tela_analise_de_cr%C3%A9dito/Visualisar%20dados.png)
 * _Os contextos selecionados veem os dados da_ **`análise de crédito`** _e_ **`validações cadastrais`** ⤵️
 
