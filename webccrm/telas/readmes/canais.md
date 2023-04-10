@@ -61,6 +61,6 @@
 
 ### Todos os links que temos aqui podem ser abertos de duas maneiras:
 * _Clicando com o botão direito do mouse -> `Abrir link em uma nova guia`_ ;
-* _Clicando com o `Scroll` do mouse no link_ ;
+* _Clicando com o `Scroll` do mouse no link_  ;
 
 ---
