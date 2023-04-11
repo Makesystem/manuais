@@ -8,8 +8,8 @@
 
 # 1 - Chegando na tela Histórico de Contatos
 >## __1.1 - Caminho__
-* _Clicamos no_ ![menu](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/img_padrao/menu1.png) `Menu` ;
-* _Depois clicamos em_  ![Relatórios](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/img_padrao/relat%C3%B3rios_1.png) `Relatórios` -> ![Histórico_de_Contatos](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/img_padrao/historico_de_contatos_1.png) `Histórico de Contatos` ;
+* _Clicamos no_ ![menu](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/icon_standard/16%20-%20Todas%20telas/menu.png) `Menu` ;
+* _Depois clicamos em_  ![Relatórios](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/icon_standard/2%20-%20Relat%C3%B3rios/Relat%C3%B3rios.png) `Relatórios` -> ![Histórico_de_Contatos](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/icon_standard/2%20-%20Relat%C3%B3rios/hist%C3%B3rico%20de%20contatos.png) `Histórico de Contatos` ;
   
   ![Caminho](https://github.com/Makesystem/manuais/raw/main/webccrm/telas/separacao_tela/tela_historico_de_contato/caminho.gif)
 
