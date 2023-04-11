@@ -18,12 +18,12 @@
 # 2 - Informações Básicas
 >## __2.1 - Configurações e Metas__
 * _Para ser Aplicado o_ `Painel de Pontos` _é necessário ter_ :
-  * _Uma  criada e cadastrada ( Vídeo demonstrando como criar_ ![icon_ytb](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/icon_standard/16%20-%20Todas%20telas/youtube.png) [__Link do vídeo ](https://youtu.be/I9LTHVsGVlA?t=23) );
-  * _Uma criada e cadastrada ( Vídeo demonstrando como criar_ ![icon_ytb](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/icon_standard/16%20-%20Todas%20telas/youtube.png) [__Link do vídeo_](https://youtu.be/S8WrsXjE2uA?t=21) );
+  * _Uma  criada e cadastrada ( Vídeo demonstrando como criar_ ![icon_ytb](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/icon_standard/16%20-%20Todas%20telas/youtube.png) [**Link do vídeo**](https://youtu.be/I9LTHVsGVlA?t=23) );
+  * _Uma criada e cadastrada ( Vídeo demonstrando como criar_ ![icon_ytb](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/icon_standard/16%20-%20Todas%20telas/youtube.png) [**Link do vídeo**](https://youtu.be/S8WrsXjE2uA?t=21) );
 
 ![Mostrando_Meta_Config](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/separacao_tela/tela_painel_de_pontos/meta.gif)
 
-###### 2.1.1 - ![Warning](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/img_padrao/waarning.png) clicando nas palavras `meta` e `configuração` nos tópicos à cima, verá os vídeos de como cria-los dentro do sistema.
+###### 2.1.1 - ⚠️ clicando nos links à cima, verá os vídeos de como cria-los dentro do sistema.
 
 <br />
 
