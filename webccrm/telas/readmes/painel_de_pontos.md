@@ -8,8 +8,8 @@
 
 # 1 - Chegando na tela Painel de Pontos
 >## __1.1 - Caminho__
-* _Clicamos no_ ![menu](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/img_padrao/menu1.png) `Menu` ;
-* _Depois clicamos em_  ![Relatórios](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/img_padrao/relatórios_1.png) `Relatórios` -> ![Painel_De_Pontos](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/img_padrao/PainelDePontos.png) `Painel de Pontos` ;
+* _Clicamos no_ ![menu](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/icon_standard/16%20-%20Todas%20telas/menu.png) `Menu` ;
+* _Depois clicamos em_  ![Relatórios](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/icon_standard/2%20-%20Relat%C3%B3rios/Relat%C3%B3rios.png) `Relatórios` ➡️ ![Painel_De_Pontos](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/icon_standard/2%20-%20Relat%C3%B3rios/Painel%20de%20Pontos.png) `Painel de Pontos` ;
   
 ![Caminho](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/separacao_tela/tela_painel_de_pontos/caminho.gif)
 
@@ -18,8 +18,8 @@
 # 2 - Informações Básicas
 >## __2.1 - Configurações e Metas__
 * _Para ser Aplicado o_ `Painel de Pontos` _é necessário ter_ :
-  * _Uma [meta](https://youtu.be/I9LTHVsGVlA?t=23) criada e cadastrada_ ;
-  * _Uma [configuração](https://youtu.be/S8WrsXjE2uA?t=21) criada e cadastrada_ ;
+  * _Uma  criada e cadastrada ( Vídeo demonstrando como criar_ ![icon_ytb](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/icon_standard/16%20-%20Todas%20telas/youtube.png) [__Link do vídeo demonstrando__](https://youtu.be/I9LTHVsGVlA?t=23) );
+  * _Uma criada e cadastrada ( Vídeo demonstrando como criar_ ![icon_ytb](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/icon_standard/16%20-%20Todas%20telas/youtube.png) [__Link do vídeo demonstrando__](https://youtu.be/S8WrsXjE2uA?t=21) );
 
 ![Mostrando_Meta_Config](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/separacao_tela/tela_painel_de_pontos/meta.gif)
 
@@ -38,7 +38,7 @@
 * _Além dos filtros de `Configuração` e `Meta`_ ;
 * _Podemos escolher se será por_ `Grupo` _ou_ `Usuário` ;
 * _Colocar o_ `Ano` _e o_ `Mês` ;
-* _Depois de escolhido os filtros só clicar na_ ![Lupa_Filtro](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/img_padrao/filtro2.png) .
+* _Depois de escolhido os filtros só clicar na_ ![Lupa_Filtro](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/icon_standard/16%20-%20Todas%20telas/lupa.png) .
 
 ![Mostrando_Filtros](https://github.com/Makesystem/manuais/raw/main/webccrm/telas/separacao_tela/tela_painel_de_pontos/filtros.gif)
 
