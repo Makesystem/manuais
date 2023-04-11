@@ -2,14 +2,14 @@
 
 ---
 
-[![Logo_Make](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/img_padrao/makesystem.png)](https://www.makesystem.com.br/)
+[![Logo_Make](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/icon_standard/16%20-%20Todas%20telas/makesystem.png)](https://www.makesystem.com.br/)
 
 ---
 
 # 1 - Chegando na tela Relatório de Pontos
 >## __1.1 - Caminho__
-* _Clicamos no_ ![menu()](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/img_padrao/menu1.png) `Menu` ;
-* _Depois clicamos em_  ![Relatórios](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/img_padrao/relat%C3%B3rios_1.png) `Relatórios` -> ![Relatorio_de_visitas](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/separacao_tela/tela_relatorio_de_visitas/relatorioDeVisitas.png) `Relatório de Visitas` ;
+* _Clicamos no_ ![menu](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/icon_standard/16%20-%20Todas%20telas/menu.png) `Menu` ;
+* _Depois clicamos em_ ![PAP](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/icon_standard/4%20-%20PAP/PAP%20e%20Hist%C3%B3rico%20de%20contato%20exter.png) `PAP` ➡️ ![Relatorio_de_visitas](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/icon_standard/4%20-%20PAP/Relat%C3%B3rio%20de%20Visitas.png) `Relatório de Visitas` ;
   
 ![Caminho_Relatório_de_Visitas](https://github.com/Makesystem/manuais/raw/main/webccrm/telas/separacao_tela/tela_relatorio_de_visitas/caminho.gif)
 
@@ -26,7 +26,7 @@
 * _O formato de visualização_ ⤵️ ;
 * ➡️ **`Total de Status por Dia/Hora`**, **`Fila`**, **`Grupo`**, **`Usuário`**, **`Grupo e Dia/Hora`**, **`Usuário e Dia/Hora`** ;
 * _Como Agrupar por_ **`Hora`**, **`Dia`** ; 
-* _Depois de escolhido os filtros só clicar na_ ![Lupa_Filtro](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/img_padrao/filtro2.png) ;
+* _Depois de escolhido os filtros só clicar na_ ![Lupa_Filtro](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/icon_standard/16%20-%20Todas%20telas/lupa.png) ;
 
 ![Filtros_Relatório_de_visitas](https://github.com/Makesystem/manuais/raw/main/webccrm/telas/separacao_tela/tela_relatorio_de_visitas/filtros.gif)
 
