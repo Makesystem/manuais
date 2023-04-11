@@ -8,8 +8,8 @@
 
 # 1 - Chegando na tela Histórico de Ações
 >## __1.1 - Caminho__
-* _Clicamos no_ ![menu](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/img_padrao/menu1.png) `Menu` ;
-* _Depois clicamos em_  ![Relatórios](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/img_padrao/relat%C3%B3rios_1.png) `Relatórios` -> ![Histórico_de_Ações](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/img_padrao/historico_acoes_1.png) `Histórico de Ações` ;
+* _Clicamos no_ ![menu](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/icon_standard/16%20-%20Todas%20telas/menu.png) `Menu` ;
+* _Depois clicamos em_  ![Relatórios](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/icon_standard/2%20-%20Relat%C3%B3rios/Relat%C3%B3rios.png) `Relatórios` -> ![Histórico_de_Ações](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/icon_standard/2%20-%20Relat%C3%B3rios/Hist%C3%B3rico%20de%20A%C3%A7%C3%B5es.png) `Histórico de Ações` ;
   
   ![Caminho](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/separacao_tela/tela_historico_de_a%C3%A7%C3%B5es/caminho.gif)
 
@@ -38,7 +38,7 @@
 *  ![Notificação](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/separacao_tela/tela_historico_de_contato/notifica%C3%A7%C3%A3o.png)
 *  _Só clicar em_ ![Download](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/separacao_tela/tela_historico_de_contato/download.png) ;
 * _O arquivo aparecerá na parte inferior do navegador, assim_ ![MostrandoDownload](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/separacao_tela/tela_historico_de_contato/mostrando_download.gif) ;
-* _O arquivo irá para pasta de_ ![IconDownloads](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/separacao_tela/tela_relatorio_de_pontos/IconDownload.png) `Downloads` _do seu computador_ ;
+* _O arquivo irá para pasta de_ ![IconDownloads](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/icon_standard/16%20-%20Todas%20telas/download.png) `Downloads` _do seu computador_ ;
 * _Pode apertar as teclas_ ![BtnControl](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/separacao_tela/tela_relatorio_de_pontos/btnCtrl.png) ![SimboloDeMais](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/separacao_tela/tela_relatorio_de_pontos/%2B.png)![LetraJota](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/separacao_tela/tela_relatorio_de_pontos/letraJ2.png)_para abrir uma nova guia do navegador com todos os_ `Downloads` ;
 
   ![Mostrando_Download](https://github.com/Makesystem/manuais/raw/main/webccrm/telas/separacao_tela/tela_historico_de_a%C3%A7%C3%B5es/mostrando_download.gif)
