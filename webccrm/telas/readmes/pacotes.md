@@ -6,8 +6,8 @@
 
 # 1 - Chegando na tela Minhas Vendas
 >### __1.1 - Caminho__
-* _Clicamos no_ ![menu](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/img_padrao/menu_1.png) `Menu` ; 
-* _Depois clicamos em_ ![produtos](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/img_padrao/produtos_main.png)  `Produtos` ➡️ ![Pacotes](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/img_padrao/produtos.png) `Pacotes` ;
+* _Clicamos no_ ![menu](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/icon_standard/16%20-%20Todas%20telas/menu.png) `Menu` ; 
+* _Depois clicamos em_ ![produtos](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/icon_standard/8%20-%20Produtos/Produto.png)  `Produtos` ➡️ ![Pacotes](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/icon_standard/8%20-%20Produtos/Pacotes.png) `Pacotes` ;
   
 ![Caminho](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/separacao_tela/tela_pacotes/caminho.gif)
 
