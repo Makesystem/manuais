@@ -1,12 +1,12 @@
 # MINHAS VENDAS
 
-[![Logo](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/img_padrao/makesystem.png)](https://www.makesystem.com.br/)
+[![Logo](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/icon_standard/16%20-%20Todas%20telas/makesystem.png)](https://www.makesystem.com.br/)
 
 ---
 
 # 1 - Chegando na tela Minhas Vendas
 >## __1.1 - Caminho__
-* _Clicamos no_ ![menu](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/img_padrao/menu1.png) `Menu` ; 
+* _Clicamos no_ ![menu](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/icon_standard/16%20-%20Todas%20telas/menu.png) `Menu` ; 
 * _Depois clicamos em_  🛒 `Vendas` -> 📞 `Minhas Vendas` ;
   
 ![Caminho](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/separacao_tela/tela_venda/caminho.gif)
