@@ -16,7 +16,7 @@
 
 # 2 - Criando
 >## __2.1 - Cadastrando uma regra__
-* _Clica no ícone de_ ![Mais](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/img_padrao/add_1.png) ;
+* _Clica no ícone de_ ![add_usuário](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/icon_standard/16%20-%20Todas%20telas/add_1.png) ;
 * _Para adicionar uma regra nova_ ;
 
 >## __2.2 - Nova regra de análise financeira__
