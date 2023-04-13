@@ -2,20 +2,20 @@
 
 ---
 
-[![Logo_Make]()](https://www.makesystem.com.br/)
+[![Logo_Make](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/icon_standard/16%20-%20Todas%20telas/makesystem.png)](https://www.makesystem.com.br/)
 
 ---
 
 # 1 - Chegando na tela Relatório de Pontos
 >## __1.1 - Caminho__
-* _Clicamos no_ ![menu](imgpadrao/menu.png) `Menu` ;
-* _Depois clicamos em_  ![Inicio](imgpadrao/relatórios.png) `Início` ➡️ ![Dashboard](imgpadrao/PainelDePontos.png) `Dashboard` ;
+* _Clicamos no_ ![menu](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/icon_standard/16%20-%20Todas%20telas/menu.png) `Menu` ;
+* _Depois clicamos em_  ![Inicio](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/icon_standard/1%20-%20In%C3%ADcio/In%C3%ADcio.png) `Início` ➡️ ![Dashboard](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/icon_standard/1%20-%20In%C3%ADcio/Dashboard.png) `Dashboard` ;
   
-![Caminho_Dashboard](tela_dashboard/caminho.gif)
+![Caminho_Dashboard](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/separacao_tela/tela_dashboard/caminho.gif)
 
 * _Assim que entrar na tela aparecerá essa mensagem_ ⤵️
 
-![mensagem](tela_dashboard/mens_dashboard.png)
+![mensagem](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/separacao_tela/tela_dashboard/mens_dashboard.png)
 
 <br />
 
@@ -23,7 +23,7 @@
 >## __2.1 - Configuração__
 * _Para ser utilizado o_ `Dashboard` _é necessário uma criar_ `configuração` _e adicionar ela na_ `Configuração padrão do DashBoard`_, faremos o cadastro de uma configuração rápida, mas temos um vídeo completo no nosso canal_ ( ![icon_ytb](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/icon_standard/16%20-%20Todas%20telas/youtube.png) [**Link do vídeo**](https://www.youtube.com/watch?v=S8WrsXjE2uA) ) ; 
 
-![Criando_Configuração](tela_dashboard/Criando%20config.gif)
+![Criando_Configuração](https://github.com/Makesystem/manuais/raw/main/webccrm/telas/separacao_tela/tela_dashboard/Criando%20config.gif)
 
 > 2.1.1 - ⚠️ clicando na palavra **Link do vídeo** no tópico à cima, verá o vídeo completo.
 
@@ -32,14 +32,14 @@
 >## __2.2 - Meta__
 * _Agora as metas também aparecem no `Dashboard`, faremos o cadastro de uma meta rápida, mas temos um vídeo completo no nosso canal_ ( ![icon_ytb](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/icon_standard/16%20-%20Todas%20telas/youtube.png) [**Link do vídeo**](https://www.youtube.com/watch?v=S8WrsXjE2uA) ) ; ⤵️
   
-![Criando_meta](tela_dashboard/Criando%20meta.gif)
+![Criando_meta](https://github.com/Makesystem/manuais/raw/main/webccrm/telas/separacao_tela/tela_dashboard/Criando%20meta.gif)
 
 > 2.2.1 - ⚠️ Lembrando que só aparecerá a meta que o usuário esteja vinculado.
 
 # 3 - Tudo Pronto
 >## 3.1 - Configuração e Metas aparecendo
 
-![Config_e_meta_criada](tela_dashboard/Config%20e%20Metas%20criadas.gif)
+![Config_e_meta_criada](https://github.com/Makesystem/manuais/raw/main/webccrm/telas/separacao_tela/tela_dashboard/Config%20e%20Metas%20criadas.gif)
 
 <br />
 
