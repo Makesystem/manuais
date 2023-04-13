@@ -6,7 +6,7 @@
 
 ---
 
-# 1 - Chegando na tela Relatório de Pontos
+# 1 - Chegando na tela Dashboard
 >## __1.1 - Caminho__
 * _Clicamos no_ ![menu](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/icon_standard/16%20-%20Todas%20telas/menu.png) `Menu` ;
 * _Depois clicamos em_  ![Inicio](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/icon_standard/1%20-%20In%C3%ADcio/In%C3%ADcio.png) `Início` ➡️ ![Dashboard](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/icon_standard/1%20-%20In%C3%ADcio/Dashboard.png) `Dashboard` ;
