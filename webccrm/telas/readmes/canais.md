@@ -1,10 +1,5 @@
 # CANAIS
 
----
-
-[![Logo_make](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/icon_standard/16%20-%20Todas%20telas/makesystem.png)](https://www.makesystem.com.br/)
-
----
 
 # 1 - Chegando na tela Canais
 >## __1.1 - Caminho__
