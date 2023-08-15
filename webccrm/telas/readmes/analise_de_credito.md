@@ -1,11 +1,5 @@
 # ANÁLISE DE CRÉDITO
 
----
-
-[![Logo_Make](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/icon_standard/16%20-%20Todas%20telas/makesystem.png)](https://www.makesystem.com.br/)
-
----
-
 # 1 - Chegando na tela Análise de crédito
 >## __1.1 - Caminho__
 * _Clicamos no_ ![menu](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/icon_standard/16%20-%20Todas%20telas/menu.png) `Menu` ;
