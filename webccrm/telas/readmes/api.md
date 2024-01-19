@@ -5,7 +5,7 @@
 
 ---
 
-![Postman](/md_api/postman.png)
+![Postman](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/separacao_tela/md_api/postman.png)
 
 ---
 
