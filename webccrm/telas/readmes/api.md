@@ -15,7 +15,7 @@
 * Para baixar clique [aqui.](https://dl.pstmn.io/download/latest/win64)
 * ▶️ Instalação bem simples, só avançar e ele já vai abrir o Postman ⤵️
   <br>
-![PS](https://github.com/Makesystem/manuais/edit/main/webccrm/telas/separacao_tela/md_api/instala%C3%A7%C3%A3o_win_1.png)
+![PS](https://raw.githubusercontent.com/Makesystem/manuais/main/webccrm/telas/separacao_tela/md_api/instalação_win_1.png)
 
 ### 1.2 - Baixar/Instalar para Mac
 * Para baixar clique [aqui.](https://dl.pstmn.io/download/latest/osx_arm64)
